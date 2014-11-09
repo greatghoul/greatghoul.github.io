@@ -1,0 +1,141 @@
+---
+title: 2011年5月壁纸分享
+slug: wallpapers-201105
+date: 2011-05-31 19:43
+tags: [wallpaper]
+---
+
+**萝莉**
+
+girl with flower
+
+<a href="http://people.desktopnexus.com/wallpaper/469427/"><img src="http://static.desktopnexus.com/thumbnails/469427-bigthumbnail.jpg" border="0"></a>
+
+<a href="http://anime.desktopnexus.com/wallpaper/662276/"><img src="http://static.desktopnexus.com/thumbnails/662276-bigthumbnail.jpg" border="0"></a>
+
+<a href="http://anime.desktopnexus.com/wallpaper/397007/"><img src="http://static.desktopnexus.com/thumbnails/397007-bigthumbnail.jpg" border="0"></a>
+
+<a href="http://anime.desktopnexus.com/wallpaper/628937/"><img src="http://static.desktopnexus.com/thumbnails/628937-bigthumbnail.jpg" border="0"></a>
+
+girl with dog
+
+<a href="http://anime.desktopnexus.com/wallpaper/311294/"><img src="http://static.desktopnexus.com/thumbnails/311294-bigthumbnail.jpg" border="0"></a>
+
+school girl
+
+<a href="http://anime.desktopnexus.com/wallpaper/502311/"><img src="http://static.desktopnexus.com/thumbnails/502311-bigthumbnail.jpg" border="0"></a>
+
+Chinese girl
+
+<a href="http://anime.desktopnexus.com/wallpaper/542872/"><img src="http://static.desktopnexus.com/thumbnails/542872-bigthumbnail.jpg" border="0"></a>
+
+<a href="http://people.desktopnexus.com/wallpaper/678208/"><img src="http://static.desktopnexus.com/thumbnails/678208-bigthumbnail.jpg" border="0"></a>
+
+<a href="http://people.desktopnexus.com/wallpaper/682471/"><img src="http://static.desktopnexus.com/thumbnails/682471-bigthumbnail.jpg" border="0"></a>
+
+<a href="http://anime.desktopnexus.com/wallpaper/430474/"><img src="http://static.desktopnexus.com/thumbnails/430474-bigthumbnail.jpg" border="0"></a>
+
+<a href="http://anime.desktopnexus.com/wallpaper/634359/"><img src="http://static.desktopnexus.com/thumbnails/634359-bigthumbnail.jpg" border="0"></a>
+
+**初音**
+
+ALRIGHT !!!!!
+
+<a href="http://anime.desktopnexus.com/wallpaper/585044/"><img src="http://static.desktopnexus.com/thumbnails/585044-bigthumbnail.jpg" border="0"></a>
+
+Hatsune Miku & Zatsune Miku
+
+<a href="http://anime.desktopnexus.com/wallpaper/614339/"><img src="http://static.desktopnexus.com/thumbnails/614339-bigthumbnail.jpg" border="0"></a>
+
+
+Chibi Miku
+
+<a href="http://anime.desktopnexus.com/wallpaper/127879/"><img src="http://static.desktopnexus.com/thumbnails/127879-bigthumbnail.jpg" border="0"></a>
+
+Miku Hatsune
+
+<a href="http://anime.desktopnexus.com/wallpaper/635125/"><img src="http://static.desktopnexus.com/thumbnails/635125-bigthumbnail.jpg" border="0"></a>
+
+<a href="http://anime.desktopnexus.com/wallpaper/539995/"><img src="http://static.desktopnexus.com/thumbnails/539995-bigthumbnail.jpg" border="0"></a>
+
+<a href="http://anime.desktopnexus.com/wallpaper/655753/"><img src="http://static.desktopnexus.com/thumbnails/655753-bigthumbnail.jpg" border="0"></a>
+
+Zatsune Miku
+
+<a href="http://anime.desktopnexus.com/wallpaper/612433/"><img src="http://static.desktopnexus.com/thumbnails/612433-bigthumbnail.jpg" border="0"></a>
+
+
+**萌物**
+
+<a href="http://animals.desktopnexus.com/wallpaper/673150/"><img src="http://static.desktopnexus.com/thumbnails/673150-bigthumbnail.jpg" border="0"></a>
+
+<a href="http://animals.desktopnexus.com/wallpaper/674477/"><img src="http://static.desktopnexus.com/thumbnails/674477-bigthumbnail.jpg" border="0"></a>
+
+Swans
+
+<a href="http://animals.desktopnexus.com/wallpaper/278908/"><img src="http://static.desktopnexus.com/thumbnails/278908-bigthumbnail.jpg" border="0"></a>
+
+pandas
+
+<a href="http://animals.desktopnexus.com/wallpaper/35490/"><img src="http://static.desktopnexus.com/thumbnails/35490-bigthumbnail.jpg" border="0"></a>
+
+PussyCAT Band
+
+<a href="http://animals.desktopnexus.com/wallpaper/159235/"><img src="http://static.desktopnexus.com/thumbnails/159235-bigthumbnail.jpg" border="0"></a>
+
+friends
+
+<a href="http://animals.desktopnexus.com/wallpaper/1397/"><img src="http://static.desktopnexus.com/thumbnails/1397-bigthumbnail.jpg" border="0"></a>
+
+sweet puppies for Andonia
+
+<a href="http://animals.desktopnexus.com/wallpaper/682172/"><img src="http://static.desktopnexus.com/thumbnails/682172-bigthumbnail.jpg" border="0"></a>
+
+<a href="http://animals.desktopnexus.com/wallpaper/652981/"><img src="http://static.desktopnexus.com/thumbnails/652981-bigthumbnail.jpg" border="0"></a>
+
+cute bunny!
+
+<a href="http://abstract.desktopnexus.com/wallpaper/81730/"><img src="http://static.desktopnexus.com/thumbnails/81730-bigthumbnail.jpg" border="0"></a>
+
+**风景**
+
+<a href="http://nature.desktopnexus.com/wallpaper/678981/"><img src="http://static.desktopnexus.com/thumbnails/678981-bigthumbnail.jpg" border="0"></a>
+
+<a href="http://nature.desktopnexus.com/wallpaper/31241/"><img src="http://static.desktopnexus.com/thumbnails/31241-bigthumbnail.jpg" border="0"></a>
+
+<a href="http://nature.desktopnexus.com/wallpaper/435248/"><img src="http://static.desktopnexus.com/thumbnails/435248-bigthumbnail.jpg" border="0"></a>
+
+<a href="http://nature.desktopnexus.com/wallpaper/383293/"><img src="http://static.desktopnexus.com/thumbnails/383293-bigthumbnail.jpg" border="0"></a>
+
+<a href="http://abstract.desktopnexus.com/wallpaper/458653/"><img src="http://static.desktopnexus.com/thumbnails/458653-bigthumbnail.jpg" border="0"></a>
+
+<a href="http://nature.desktopnexus.com/wallpaper/368300/"><img src="http://static.desktopnexus.com/thumbnails/368300-bigthumbnail.jpg" border="0"></a>
+
+Reflections of purple
+<a href="http://nature.desktopnexus.com/wallpaper/682789/"><img src="http://static.desktopnexus.com/thumbnails/682789-bigthumbnail.jpg" border="0"></a>
+
+
+**美女**
+
+Alluring
+
+<a href="http://people.desktopnexus.com/wallpaper/400077/"><img src="http://static.desktopnexus.com/thumbnails/400077-bigthumbnail.jpg" border="0"></a>
+
+<a href="http://people.desktopnexus.com/wallpaper/668032/"><img src="http://static.desktopnexus.com/thumbnails/668032-bigthumbnail.jpg" border="0"></a>
+
+<a href="http://people.desktopnexus.com/wallpaper/528915/"><img src="http://static.desktopnexus.com/thumbnails/528915-bigthumbnail.jpg" border="0"></a>
+
+<a href="http://people.desktopnexus.com/wallpaper/313493/"><img src="http://static.desktopnexus.com/thumbnails/313493-bigthumbnail.jpg" border="0"></a>
+
+DREAMER GIRL
+
+<a href="http://people.desktopnexus.com/wallpaper/630527/"><img src="http://static.desktopnexus.com/thumbnails/630527-bigthumbnail.jpg" border="0"></a>
+
+<a href="http://abstract.desktopnexus.com/wallpaper/397041/"><img src="http://static.desktopnexus.com/thumbnails/397041-bigthumbnail.jpg" border="0"></a>
+
+<a href="http://people.desktopnexus.com/wallpaper/563959/"><img src="http://static.desktopnexus.com/thumbnails/563959-bigthumbnail.jpg" border="0"></a>
+
+Music girl
+
+<a href="http://anime.desktopnexus.com/wallpaper/497481/"><img src="http://static.desktopnexus.com/thumbnails/497481-bigthumbnail.jpg" border="0"></a>
+

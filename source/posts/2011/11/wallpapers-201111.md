@@ -1,0 +1,46 @@
+---
+title: 2011年11月壁纸分享
+slug: wallpapers-201111
+date: 2011-11-28 22:14
+tags: [wallpaper]
+---
+
+<a href="http://abstract.desktopnexus.com/wallpaper/864068/"><img src="http://static.desktopnexus.com/thumbnails/864068-bigthumbnail.jpg" border="0" alt="" /></a>
+
+<a href="http://nature.desktopnexus.com/wallpaper/864239/"><img src="http://static.desktopnexus.com/thumbnails/864239-bigthumbnail.jpg" border="0" alt="" /></a>
+
+<a href="http://anime.desktopnexus.com/wallpaper/864156/"><img src="http://static.desktopnexus.com/thumbnails/864156-bigthumbnail.jpg" border="0" alt="" /></a>
+
+<a href="http://abstract.desktopnexus.com/wallpaper/868363/"><img src="http://static.desktopnexus.com/thumbnails/868363-bigthumbnail.jpg" border="0" alt="" /></a>
+
+<a href="http://abstract.desktopnexus.com/wallpaper/868369/"><img src="http://static.desktopnexus.com/thumbnails/868369-bigthumbnail.jpg" border="0" alt="" /></a>
+
+<a href="http://abstract.desktopnexus.com/wallpaper/869269/"><img src="http://static.desktopnexus.com/thumbnails/869269-bigthumbnail.jpg" border="0" alt="" /></a>
+
+<a href="http://abstract.desktopnexus.com/wallpaper/868384/"><img src="http://static.desktopnexus.com/thumbnails/868384-bigthumbnail.jpg" border="0" alt="" /></a>
+
+<a href="http://anime.desktopnexus.com/wallpaper/868588/"><img src="http://static.desktopnexus.com/thumbnails/868588-bigthumbnail.jpg" border="0" alt="" /></a>
+
+<a href="http://anime.desktopnexus.com/wallpaper/882411/"><img src="http://static.desktopnexus.com/thumbnails/882411-bigthumbnail.jpg" border="0" alt="" /></a>
+
+<a href="http://anime.desktopnexus.com/wallpaper/881714/"><img src="http://static.desktopnexus.com/thumbnails/881714-bigthumbnail.jpg" border="0" alt="" /></a>
+
+<a href="http://abstract.desktopnexus.com/wallpaper/883469/"><img src="http://static.desktopnexus.com/thumbnails/883469-bigthumbnail.jpg" border="0" alt="" /></a>
+
+<a href="http://boats.desktopnexus.com/wallpaper/884646/"><img src="http://static.desktopnexus.com/thumbnails/884646-bigthumbnail.jpg" border="0" alt="" /></a>
+
+<a href="http://nature.desktopnexus.com/wallpaper/884205/"><img src="http://static.desktopnexus.com/thumbnails/884205-bigthumbnail.jpg" border="0" alt="" /></a>
+
+<a href="http://anime.desktopnexus.com/wallpaper/879376/"><img src="http://static.desktopnexus.com/thumbnails/879376-bigthumbnail.jpg" border="0" alt="" /></a>
+
+<a href="http://animals.desktopnexus.com/wallpaper/877838/"><img src="http://static.desktopnexus.com/thumbnails/877838-bigthumbnail.jpg" border="0" alt="" /></a>
+
+<a href="http://animals.desktopnexus.com/wallpaper/880194/"><img src="http://static.desktopnexus.com/thumbnails/880194-bigthumbnail.jpg" border="0" alt="" /></a>
+
+<a href="http://animals.desktopnexus.com/wallpaper/874369/"><img src="http://static.desktopnexus.com/thumbnails/874369-bigthumbnail.jpg" border="0" alt="" /></a>
+
+<a href="http://animals.desktopnexus.com/wallpaper/873931/"><img src="http://static.desktopnexus.com/thumbnails/873931-bigthumbnail.jpg" border="0" alt="" /></a>
+
+<a href="http://videogames.desktopnexus.com/wallpaper/864208/"><img src="http://static.desktopnexus.com/thumbnails/864208-bigthumbnail.jpg" border="0" alt="" /></a>
+
+<a href="http://videogames.desktopnexus.com/wallpaper/864639/"><img src="http://static.desktopnexus.com/thumbnails/864639-bigthumbnail.jpg" border="0" alt="" /></a>
