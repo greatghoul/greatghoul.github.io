@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+}
+
+header a,
+footer a {
+  text-decoration: none;
+}
+
+body > footer {
+  text-align: center;
+  color: #999;
+  font-size: .8em;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.block {
+  background: #fbfbfa;
+  padding: 8px 0;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+}
+
+.container {
+  max-width: 780px;
+  margin: 0 auto;
+}
+
+article, section {
+  margin: 5px 10px;
+}
+
+article {
+  margin-bottom: 50px;
+}
+
+.entry-view article {
+  margin-bottom: 26px;
+}
+
+article:only-child {
+  margin-bottom: 26px;
+}
+
+article > header {
+  margin-bottom: 26px;
+  color: #999;
+}
+
+article > footer > .tag {
+  font-size: .8em;
+  margin-right: 1em;
+  color: #999;
+}
+
+article > footer > .tag:before {
+  content: '#';
+  color: #ccc;
+}
+
+/* Tag Cloud */
+#tags { list-style: none; }
+#tags a { text-decoration: none; }
+#tags li { display: inline; margin-right: 20px; }
+#tags .tag-0 { font-size: 1.9em; line-height: 1.9em; }
+#tags .tag-1 { font-size: 1.6em; line-height: 1.6em; }
+#tags .tag-2 { font-size: 1.3em; line-height: 1.3em; }
+#tags .tag-3 { font-size: 1.0em; line-height: 1.0em; }
+
+#archives dt h3 { border-bottom: 1px solid #eeeeee; margin-bottom: 5px; }
+#archives a { text-decoration: none; }
+#archives dd span { float: right; }
+#archives dd { margin: 0; }
+#archives dd:hover { background: #eeeeee; }

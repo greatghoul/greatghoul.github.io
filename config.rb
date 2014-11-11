@@ -12,7 +12,7 @@ activate :blog do |blog|
   # Matcher for blog source files
   blog.sources = "posts/{year}/{month}/{title}.html"
   blog.taglink = "tags/{tag}.html"
-  blog.layout = "layout"
+  blog.layout = "layouts/article"
   blog.summary_separator = /(READMORE)/
   blog.summary_length = 250
   # blog.year_link  = "{year}.html"
@@ -69,7 +69,7 @@ page "/feed.xml", layout: false
 # activate :automatic_image_sizes
 
 # Reload the browser automatically whenever files change
-activate :livereload
+# activate :livereload
 
 # Methods defined in the helpers block are available in templates
 # helpers do
