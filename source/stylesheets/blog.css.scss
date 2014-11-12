@@ -12,6 +12,7 @@ body > header {
 
   nav a {
     color: #888888 !important;
+    text-decoration: none;
   }
 }
 
@@ -22,7 +23,7 @@ article {
   border-bottom: 1px solid #dfdfdf;
   margin: 0 auto;
   max-width: 780px;
-  margin: 20px auto;
+  margin: 10px auto;
 
   header {
     border-bottom: 1px solid #f2f2f2;
@@ -31,6 +32,8 @@ article {
     h1 {
       margin: 0 !important;
       font-size: 1.2em !important;
+
+      a { text-decoration: none; }
     }
   }
 
@@ -40,6 +43,10 @@ article {
     .summary * {
       font-weight: normal;
       font-size: 1em;
+    }
+
+    h1 {
+      text-align: center;
     }
   }
 
@@ -52,60 +59,29 @@ article {
     .meta {
       margin-right: 10px;
       display: inline;
-      
+
       a {
         color: #999999 !important;
+        text-decoration: none;
       }
     }
 
   }
 }
 
-
-header a,
-footer a {
-  margin-left: 3px;
-  margin-right: 3px;
-  text-decoration: none;
-}
-
-body > footer {
-  text-align: center;
-  color: #999;
-  font-size: .8em;
-  padding-top: 15px;
-  padding-bottom: 15px;
-}
-
-.block {
-  background: #fbfbfa;
-  padding: 8px 0;
-  border-top: 1px solid #eee;
-  border-bottom: 1px solid #eee;
-}
-
-.container {
-  max-width: 780px;
+#disqus_thread {
+  background: #ffffff;
+  border-radius: 2px;
+  border-right: 1px solid #dfdfdf;
+  border-bottom: 1px solid #dfdfdf;
   margin: 0 auto;
-}
+  max-width: 740px;
+  margin: 10px auto;
+  padding: 10px 20px;
 
-.entry-view article {
-  margin-bottom: 26px;
-}
-
-article:only-child {
-  margin-bottom: 26px;
-}
-
-article > footer > .tag {
-  font-size: .8em;
-  margin-right: 1em;
-  color: #999;
-}
-
-article > footer > .tag:before {
-  content: '#';
-  color: #ccc;
+  iframe {
+    margin-bottom: 0;
+  }
 }
 
 /* Tag Cloud */

@@ -29,6 +29,10 @@ activate :blog do |blog|
   # blog.page_link = "page/{num}.html"
 end
 
+activate :disqus do |d|
+  d.shortname = 'g2world'
+end
+
 page "/feed.xml", layout: false
 
 ###

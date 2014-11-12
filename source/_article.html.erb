@@ -1,7 +1,9 @@
 <article>
-  <header>
-    <h1><%= link_to article.title, article %></h1>
-  </header>
+  <% if summary %>
+    <header>
+      <h1><%= link_to article.title, article %></h1>
+    </header>
+  <% end %>
 
   <div class="content">
     <% if summary %>
@@ -11,6 +13,8 @@
 
       <%= link_to '阅读全文…', article %>
     <% else %>
+      <h1><%= article.title %></h1>
+
       <%= article.body %>
     <% end %>
 
@@ -28,6 +32,9 @@
         <%= link_to tag, tag_path(tag) %>
       <% end %>
     </div>
-
   </footer>
 </article>
+
+<% unless summary %>
+  <%= disqus %>
+<% end %>
