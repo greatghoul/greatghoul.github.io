@@ -1,19 +1,15 @@
 <article>
   <header>
+    <time datetime="<%= article.date.strftime('%b %e') %>"><%= article.date.strftime('%b %e') %></time>
     <h1><%= link_to article.title, article %></h1>
-
-    发布于 <time datetime="<%= article.date.strftime('%b %e') %>"><%= article.date.strftime('%b %e') %></time>
-    <span>
   </header>
 
   <%= article.summary %>
   <%= link_to '阅读全文…', article %>
 
-  <% if paginate %>
-    <footer>
-      <% article.tags.each do |tag| %>
-        <%= link_to tag, tag_path(tag), class: 'tag' %>
-      <% end %>
-    </footer>
-  <% end %>
+  <footer>
+    <% article.tags.each do |tag| %>
+      <%= link_to tag, tag_path(tag), class: 'tag' %>
+    <% end %>
+  </footer>
 </article>

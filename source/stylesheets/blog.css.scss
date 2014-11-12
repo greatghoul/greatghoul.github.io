@@ -3,12 +3,39 @@ body {
   padding: 0;
 }
 
+.articles article {
+  header {
+    text-align: left;
+
+    h1 {
+      font-size: 1.3em;
+      text-align: left;
+      margin-top: 0px;
+
+      a { margin: 0; }
+    }
+
+    time { font-size: 0.7em; }
+  }
+}
+
+article.single {
+  header {
+    h1 {
+      margin-bottom: 0;
+    }
+  }
+}
+
+
 header {
   text-align: center;
 }
 
 header a,
 footer a {
+  margin-left: 3px;
+  margin-right: 3px;
   text-decoration: none;
 }
 
