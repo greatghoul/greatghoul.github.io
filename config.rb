@@ -72,17 +72,19 @@ page "/feed.xml", layout: false
 # activate :livereload
 
 # Methods defined in the helpers block are available in templates
-# helpers do
-#   def some_helper
-#     "Helping"
-#   end
-# end
+helpers do
+  def render_article(article, summary=true)
+    partial 'article', locals: { article: article, summary: summary }
+  end
+end
 
 set :css_dir, 'stylesheets'
 
 set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
+
+set :fonts_dir, 'fonts'
 
 # Build-specific configuration
 configure :build do

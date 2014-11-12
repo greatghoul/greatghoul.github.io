@@ -1,36 +1,66 @@
 body {
-  margin: 0;
-  padding: 0;
+  background-color: #f1f1f1;
 }
 
-.articles article {
-  header {
-    text-align: left;
-
-    h1 {
-      font-size: 1.3em;
-      text-align: left;
-      margin-top: 0px;
-
-      a { margin: 0; }
-    }
-
-    time { font-size: 0.7em; }
-  }
-}
-
-article.single {
-  header {
-    h1 {
-      margin-bottom: 0;
-    }
-  }
-}
-
-
-header {
+body > header {
   text-align: center;
+  margin-bottom: 26px;
+
+  h1 {
+    margin-bottom: 0 !important;
+  }
+
+  nav a {
+    color: #888888 !important;
+  }
 }
+
+article {
+  background: #ffffff;
+  border-radius: 2px;
+  border-right: 1px solid #dfdfdf;
+  border-bottom: 1px solid #dfdfdf;
+  margin: 0 auto;
+  max-width: 780px;
+  margin: 20px auto;
+
+  header {
+    border-bottom: 1px solid #f2f2f2;
+    padding: 10px 20px;
+
+    h1 {
+      margin: 0 !important;
+      font-size: 1.2em !important;
+    }
+  }
+
+  .content {
+    padding: 10px 20px;
+
+    .summary * {
+      font-weight: normal;
+      font-size: 1em;
+    }
+  }
+
+  footer {
+    font-size: 0.8em;
+    color: #999999;
+    border-top: 1px solid #f2f2f2;
+    padding: 5px 20px;
+
+    .meta {
+      margin-right: 10px;
+      display: inline;
+      
+      a {
+        color: #999999 !important;
+      }
+    }
+
+  }
+}
+
 
 header a,
 footer a {
@@ -59,25 +89,12 @@ body > footer {
   margin: 0 auto;
 }
 
-article, section {
-  margin: 5px 10px;
-}
-
-article {
-  margin-bottom: 50px;
-}
-
 .entry-view article {
   margin-bottom: 26px;
 }
 
 article:only-child {
   margin-bottom: 26px;
-}
-
-article > header {
-  margin-bottom: 26px;
-  color: #999;
 }
 
 article > footer > .tag {

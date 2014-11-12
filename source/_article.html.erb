@@ -1,15 +1,33 @@
 <article>
   <header>
-    <time datetime="<%= article.date.strftime('%b %e') %>"><%= article.date.strftime('%b %e') %></time>
     <h1><%= link_to article.title, article %></h1>
   </header>
 
-  <%= article.summary %>
-  <%= link_to '阅读全文…', article %>
+  <div class="content">
+    <% if summary %>
+      <div class="summary">
+        <%= article.summary %>
+      </div>
+
+      <%= link_to '阅读全文…', article %>
+    <% else %>
+      <%= article.body %>
+    <% end %>
+
+  </div>
 
   <footer>
-    <% article.tags.each do |tag| %>
-      <%= link_to tag, tag_path(tag), class: 'tag' %>
-    <% end %>
+    <div class="meta">
+      <span class="icon-clock"></span>
+      <time datetime="<%= article.date.strftime('%b %e') %>"><%= article.date.strftime('%b %e') %></time>
+    </div>
+
+    <div class="meta">
+      <span class="icon-tag"></span>
+      <% article.tags.each do |tag| %>
+        <%= link_to tag, tag_path(tag) %>
+      <% end %>
+    </div>
+
   </footer>
 </article>
