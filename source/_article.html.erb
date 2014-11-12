@@ -1,26 +1,21 @@
 <article>
-  <% if summary %>
-    <header>
-      <h1><%= link_to article.title, article %></h1>
-    </header>
-  <% end %>
+  <header>
+    <h3><%= link_to article.title, article %></h3>
+  </header>
 
   <div class="content">
-    <% if summary %>
-      <div class="summary">
-        <%= article.summary %>
-      </div>
+    <div class="summary">
+      <%= article.summary %>
+    </div>
 
-      <%= link_to '阅读全文…', article %>
-    <% else %>
-      <h1><%= article.title %></h1>
-
-      <%= article.body %>
-    <% end %>
-
+    <%= link_to '阅读全文…', article %>
   </div>
 
   <footer>
+    <div class="meta pull-right">
+      <a href="<%= article.url %>#disqus_thread"><%= disqus_count %> 条评论</a>
+    </div>
+
     <div class="meta">
       <span class="icon-clock"></span>
       <time datetime="<%= article.date.strftime('%b %e') %>"><%= article.date.strftime('%b %e') %></time>
@@ -34,7 +29,3 @@
     </div>
   </footer>
 </article>
-
-<% unless summary %>
-  <%= disqus %>
-<% end %>
