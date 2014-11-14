@@ -1,35 +1,21 @@
 <% wrap_layout :layout do %>
-  <article class="single">
-    <header>
-      <h1><%= current_article.title %></h1>
+  <article class="article">
+    <section class="article-header">
+      <h1 class="article-title"><%= current_article.title %></h1>
 
-      <div class="meta pull-right">
-        <a href="#disqus_thread">
-          <span class="icon-comment"></span> 发表评论
-        </a>
+      <%= render_article_meta(current_article) %>
+    </section>
+
+    <section class="article-content">
+      <div class="yue">
+        <%= current_article.body %>
       </div>
-
-      <div class="meta">
-        <span class="icon-clock"></span>
-        <time datetime="<%= current_article.date.strftime('%b %e') %>"><%= current_article.date.strftime('%b %e') %></time>
-      </div>
-
-      <div class="meta">
-        <span class="icon-tag"></span>
-        <% current_article.tags.each do |tag| %>
-          <%= link_to tag, tag_path(tag) %>
-        <% end %>
-      </div>
-    </header>
-
-    <div class="content">
-      <%= current_article.body %>
-    </div>
+      
+      <%= render_article_tags(current_article) %>
+    </section>
     
-    <footer>
+    <section class="article-footer">
       <%= disqus %>
-    </footer>
+    </section>
   </article>
-
-
 <% end %>
