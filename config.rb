@@ -8,16 +8,16 @@ activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
   # blog.prefix = "blog"
 
-  blog.permalink = "{year}/{month}/{title}.html"
+  blog.permalink = "{year}/{month}/{title}/"
   # Matcher for blog source files
   blog.sources = "posts/{year}/{month}/{title}.html"
-  blog.taglink = "tags/{tag}.html"
+  blog.taglink = "tags/{tag}/"
   blog.layout = "layouts/article"
   blog.summary_separator = /(READMORE)/
   blog.summary_length = 250
-  # blog.year_link  = "{year}.html"
-  # blog.month_link = "{year}/{month}.html"
-  # blog.day_link   = "{year}/{month}/{day}.html"
+  # blog.year_link  = "{year}/"
+  # blog.month_link = "{year}/{month}/"
+  # blog.day_link   = "{year}/{month}/{day}/"
   blog.default_extension = ".md"
 
   blog.tag_template = "tag.html"
@@ -26,7 +26,7 @@ activate :blog do |blog|
   # Enable pagination
   # blog.paginate = true
   # blog.per_page = 10
-  # blog.page_link = "page/{num}.html"
+  # blog.page_link = "page/{num}/"
 end
 
 activate :disqus do |d|
