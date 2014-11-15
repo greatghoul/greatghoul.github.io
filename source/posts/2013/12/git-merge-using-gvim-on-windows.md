@@ -3,7 +3,7 @@ title: Windows 下使用 gvimdiff 合并 git 冲突
 slug: git-merge-using-gvim-on-windows
 tags: [windows, git, gvim]
 date: 2013-12-10 22:17
-draft: true
+published: false
 ---
 
 ## 工具配置 

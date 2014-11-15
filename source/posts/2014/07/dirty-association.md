@@ -2,7 +2,7 @@
 title: Track Active Record Associations Changes
 date: 2014-07-03 14:26
 tags: [rails, active-record]
-draft: true
+published: false
 ---
 
 

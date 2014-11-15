@@ -19,6 +19,15 @@ a {
   float: right;
 }
 
+// Override Yue.css
+.yue h1 {
+  border-bottom: 2px solid #F2F2F2;
+}
+
+.yue h2 {
+  border-bottom: 1px solid #F2F2F2;
+}
+
 
 header {
   text-align: center;
@@ -145,6 +154,7 @@ header {
 
 /* Extra Small Devices, Phones */ 
 @media only screen and (max-width : 480px) {
+
 }
 
 /* Custom, iPhone Retina */ 
@@ -174,6 +184,23 @@ header {
 
   .yue p {
     margin-bottom: 5px;
+  }
+
+  .yue h1 {
+    font-size: 1.2em;
+    margin: 0.7em 0;
+    border-bottom: 2px solid #F2F2F2;
+  }
+
+  .yue h2 {
+    font-size: 1.1em;
+    margin: 0.6em 0;
+    border-bottom: 1px solid #F2F2F2;
+  }
+
+  .yue h3 {
+    font-size: 1em;
+    margin: 0.5em 0;
   }
 }
 
