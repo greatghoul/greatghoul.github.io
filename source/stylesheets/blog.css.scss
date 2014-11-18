@@ -1,33 +1,7 @@
 body {
   background-color: #f1f1f1;
+  font-size: 18px;
 }
-
-a {
-  color: #111;
-  word-wrap: break-word;
-  -moz-text-decoration-color: rgba(0, 0, 0, 0.4);
-  text-decoration-color: rgba(0, 0, 0, 0.4);
-
-  &:hover {
-    color: #555;
-    -moz-text-decoration-color: rgba(0, 0, 0, 0.6);
-    text-decoration-color: rgba(0, 0, 0, 0.6);
-  }
-}
-
-.pull-right {
-  float: right;
-}
-
-// Override Yue.css
-.yue h1 {
-  border-bottom: 2px solid #F2F2F2;
-}
-
-.yue h2 {
-  border-bottom: 1px solid #F2F2F2;
-}
-
 
 header {
   text-align: center;
@@ -45,18 +19,25 @@ header {
   }
 }
 
-.article {
-  background: #ffffff;
-  border-radius: 2px;
-  border-right: 1px solid #dfdfdf;
-  border-bottom: 1px solid #dfdfdf;
+.outer {
   margin: 0 auto;
   max-width: 780px;
   margin: 10px auto;
+}
 
-  & > section {
-    padding: 10px 20px;
+.article  {
+  .panel-body {
+    img {
+      max-width: 100%;
+    }
   }
+
+}
+
+/* Article Styles */
+
+.panel-title + .article-meta {
+  margin-top: 10px;
 }
 
 .meta {
@@ -75,28 +56,9 @@ header {
   }
 }
 
-.article-header {
-  border-bottom: 1px solid #f2f2f2;
-}
-
-.article-title {
-  font-size: 1.8em;
-  margin: 5px 0;
-
-  a {
-    text-decoration: none;
-  }
-}
-
-.article-title + .article-meta {
-  margin-top: 10px;
-}
-
-.article-summary {
-  .yue * {
-    font-weight: normal !important;
-    font-size: 1em !important;
-  }
+.article-summary * {
+  font-weight: normal !important;
+  font-size: 1em !important;
 }
 
 .article-tags {
@@ -114,20 +76,15 @@ header {
   }
 }
 
-.article-footer {
-  color: #999999;
-  border-top: 1px solid #f2f2f2;
-}
-
 
 /* Tag Cloud */
 #tags { list-style: none; }
 #tags a { text-decoration: none; }
 #tags li { display: inline; margin-right: 20px; }
-#tags .tag-0 { font-size: 1.9em; line-height: 1.9em; }
-#tags .tag-1 { font-size: 1.6em; line-height: 1.6em; }
-#tags .tag-2 { font-size: 1.3em; line-height: 1.3em; }
-#tags .tag-3 { font-size: 1.0em; line-height: 1.0em; }
+#tags .tag-3 { font-size: 1.9em; line-height: 1.9em; }
+#tags .tag-2 { font-size: 1.6em; line-height: 1.6em; }
+#tags .tag-1 { font-size: 1.3em; line-height: 1.3em; }
+#tags .tag-0 { font-size: 1.0em; line-height: 1.0em; }
 
 #archives dt h3 { border-bottom: 1px solid #eeeeee; margin-bottom: 5px; }
 #archives a { text-decoration: none; }
@@ -180,27 +137,6 @@ header {
 
   .meta-tag {
     display: none;
-  }
-
-  .yue p {
-    margin-bottom: 5px;
-  }
-
-  .yue h1 {
-    font-size: 1.2em;
-    margin: 0.7em 0;
-    border-bottom: 2px solid #F2F2F2;
-  }
-
-  .yue h2 {
-    font-size: 1.1em;
-    margin: 0.6em 0;
-    border-bottom: 1px solid #F2F2F2;
-  }
-
-  .yue h3 {
-    font-size: 1em;
-    margin: 0.5em 0;
   }
 }
 

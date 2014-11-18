@@ -1,3 +1,5 @@
+require "lib/tag_cloud"
+
 ###
 # Blog settings
 ###
@@ -8,32 +10,32 @@ activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
   # blog.prefix = "blog"
 
-  blog.permalink = "{year}/{month}/{title}/"
-  # Matcher for blog source files
-  blog.sources = "posts/{year}/{month}/{title}.html"
+  blog.permalink = "/:year/:month/:title.html"
+  blog.sources = "posts/:year/:month/:title"
   blog.taglink = "tags/{tag}/"
   blog.layout = "layouts/article"
   blog.summary_separator = /(READMORE)/
   blog.summary_length = 250
-  # blog.year_link  = "{year}/"
-  # blog.month_link = "{year}/{month}/"
-  # blog.day_link   = "{year}/{month}/{day}/"
   blog.default_extension = ".md"
 
   blog.tag_template = "tag.html"
-  blog.calendar_template = "calendar.html"
+  blog.calendar_template = false
 
   # Enable pagination
-  # blog.paginate = true
-  # blog.per_page = 10
-  # blog.page_link = "page/{num}/"
+  blog.paginate = true
+  blog.per_page = 10
+  blog.page_link = "page/{num}"
 end
+
+# activate :directory_indexes
 
 activate :disqus do |d|
   d.shortname = 'g2world'
 end
 
 page "/feed.xml", layout: false
+page "/archive.html"
+page "/tags.html"
 
 ###
 # Compass
@@ -81,6 +83,12 @@ helpers do
     partial 'article', locals: { article: article }
   end
 
+  def render_article_list(articles, options={})
+    option = { date_format: :short }.merge(options)
+
+    partial 'article_list', locals: { articles: articles, options: options }
+  end
+
   def render_article_summary(article)
     html = Nokogiri::HTML(article.summary)
     html.css('img').each(&:remove)
@@ -98,8 +106,13 @@ helpers do
     partial 'article_meta', locals: { article: article }
   end
 
-  def to_date(date)
-    date.strftime('%Y-%m-%d %H:%M')
+  def to_date(date, format=:default)
+    case format
+    when :short
+      date.strftime('%m-%d')
+    else
+      date.strftime('%Y-%m-%d %H:%M')
+    end
   end
 end
 
@@ -127,4 +140,15 @@ configure :build do
 
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
+end
+
+# Deploy
+activate :deploy do |deploy|
+  deploy.build_before = true # default: false
+  deploy.method = :git
+  # Optional Settings
+  # deploy.remote   = 'custom-remote' # remote name or git url, default: origin
+  deploy.branch   = 'gitcafe-pages' # default: gh-pages
+  # deploy.strategy = :submodule      # commit strategy: can be :force_push or :submodule, default: :force_push
+  # deploy.commit_message = 'custom-message'      # commit message (can be empty), default: Automated commit at `timestamp` by middleman-deploy `version`
 end

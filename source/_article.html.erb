@@ -1,19 +1,17 @@
-<article class="article">
-  <section class="article-header">
-    <h1 class="article-title"><%= link_to article.title, article %></h1>
-  </section>
+<article class="panel panel-default article">
+  <div class="panel-heading">
+    <h3 class="panel-title"><%= link_to article.title, article %></h3>
+  </div>
 
-  <section class="article-content">
+  <div class="panel-body">
     <div class="article-summary">
-      <div class="yue">
-        <%= render_article_summary(article) %>
-      </div>
+      <%= render_article_summary(article) %>
     </div>
 
     <%= link_to '阅读全文…', article, class: 'btn-more' %>
-  </section>
+  </div>
 
-  <section class="article-footer">
+  <div class="panel-footer">
     <%= render_article_meta(article) %>
-  </section>
+  </div>
 </article>
