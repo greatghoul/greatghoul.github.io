@@ -1,21 +1,19 @@
 <% wrap_layout :layout do %>
-  <article class="article">
-    <section class="article-header">
-      <h1 class="article-title"><%= current_article.title %></h1>
+  <article class="panel panel-default article">
+    <div class="panel-heading">
+      <h1 class="panel-title"><%= current_article.title %></h1>
 
       <%= render_article_meta(current_article) %>
-    </section>
+    </div>
 
-    <section class="article-content">
-      <div class="yue">
-        <%= current_article.body %>
-      </div>
+    <div class="panel-body">
+      <%= current_article.body %>
       
       <%= render_article_tags(current_article) %>
-    </section>
+    </div>
     
-    <section class="article-footer">
+    <div class="panel-footer">
       <%= disqus %>
-    </section>
+    </div>
   </article>
 <% end %>

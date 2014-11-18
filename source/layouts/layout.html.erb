@@ -13,7 +13,23 @@
   <body>
     <%= partial 'header' %>
 
-    <%= yield %>
+    <div class="outer">
+      <%= yield %>
+
+      <% if paginate %>
+        <nav>
+          <ul class="pager">
+            <% if prev_page %>
+              <li class="previous"><a href="<%= prev_page.url %>">&larr; 上一页</a></li>
+            <% end %>
+          
+            <% if next_page %>
+              <li class="next"><a href="<%= next_page.url %>">下一页 &rarr;</a></li>
+            <% end %>
+          </ul>
+        </nav>
+      <% end %>
+    </div>
 
     <%= javascript_include_tag 'all' %>
   </body>

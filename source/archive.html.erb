@@ -1,0 +1,9 @@
+<% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h3 class="panel-title"><%= year %>年归档</h3>
+    </div>
+
+    <%= render_article_list(articles) %>
+  </div>
+<% end %>

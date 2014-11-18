@@ -1,0 +1,13 @@
+<div class="panel panel-default panel-tags">
+  <div class="panel-heading">
+    <div class="panel-title">标签云</div>
+  </div>
+  <div class="panel-body">
+    <ul id="tags">
+      <% TagCloud.render(blog.tags) do |tag, weight| %>
+        <li><a href="<%= tag_path(tag) %>" class="tag-<%= weight %>"><%= tag %></a></li>
+      <% end %>
+    </ul>
+  </div>
+</div>
+
