@@ -6,12 +6,13 @@ require "lib/tag_cloud"
 
 Time.zone = "Beijing"
 
+
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
   # blog.prefix = "blog"
 
-  blog.permalink = "/:year/:month/:title.html"
-  blog.sources = "posts/:year/:month/:title"
+  blog.permalink = ":year/:month/:title"
+  blog.sources = "posts/:year/:month/:title.html"
   blog.taglink = "tags/{tag}/"
   blog.layout = "layouts/article"
   blog.summary_separator = /(READMORE)/
@@ -19,7 +20,6 @@ activate :blog do |blog|
   blog.default_extension = ".md"
 
   blog.tag_template = "tag.html"
-  blog.calendar_template = false
 
   # Enable pagination
   blog.paginate = true
@@ -27,7 +27,7 @@ activate :blog do |blog|
   blog.page_link = "page/{num}"
 end
 
-# activate :directory_indexes
+activate :directory_indexes
 
 activate :disqus do |d|
   d.shortname = 'g2world'
@@ -144,7 +144,6 @@ end
 
 # Deploy
 activate :deploy do |deploy|
-  deploy.build_before = true # default: false
   deploy.method = :git
   # Optional Settings
   # deploy.remote   = 'custom-remote' # remote name or git url, default: origin
