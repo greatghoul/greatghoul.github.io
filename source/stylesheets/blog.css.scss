@@ -15,7 +15,11 @@ header {
     font-size: 1.2em;
     color: #888888;
     text-decoration: none;
-    margin: 0 3px
+    margin: 0 3px;
+
+    &:hover {
+      text-decoration: none;
+    }
   }
 }
 
@@ -48,6 +52,10 @@ header {
 
   &.meta-comment {
     margin-right: 0;
+  }
+
+  &.meta-tags a:not(:last-child):after {
+    content: ', ';
   }
 
   a {

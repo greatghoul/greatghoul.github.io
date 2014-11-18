@@ -12,10 +12,12 @@
     <time datetime="<%= to_date(article.date) %>"><%= to_date(article.date) %></time>
   </div>
 
-  <div class="meta meta-tag">
-    <span class="icon-tag"></span>
-    <% article.tags.each do |tag| %>
-      <%= link_to tag, tag_path(tag) %>
-    <% end %>
-  </div>  
+  <% if article.tags.any? %>
+    <div class="meta meta-tags">
+      <span class="icon-tag"></span>
+      <% article.tags.each do |tag| %>
+        <%= link_to tag, tag_path(tag) %>
+      <% end %>
+    </div>  
+  <% end %>
 </div>
