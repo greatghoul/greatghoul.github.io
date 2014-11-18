@@ -3,6 +3,11 @@ body {
   font-size: 18px;
 }
 
+// Override Bootstrap
+.list-group-item > .badge {
+  margin-left: 1em;
+}
+
 header {
   text-align: center;
   margin-bottom: 26px;
@@ -86,7 +91,7 @@ header {
 
 
 /* Tag Cloud */
-#tags { list-style: none; }
+#tags { list-style: none; margin: 0; padding: 0; text-align: center;}
 #tags a { text-decoration: none; }
 #tags li { display: inline; margin-right: 20px; }
 #tags .tag-3 { font-size: 1.9em; line-height: 1.9em; }
@@ -100,6 +105,11 @@ header {
 #archives dd { margin: 0; }
 #archives dd:hover { background: #eeeeee; }
 
+
+// Override hljs
+.hljs {
+  background-color: inherit;
+}
 
 /* Large Devices, Wide Screens */
 @media only screen and (max-width : 1200px) {

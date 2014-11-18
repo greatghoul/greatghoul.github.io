@@ -1,10 +1,16 @@
 module BlogHelpers
+  def drop_title(title)
+    content_for :title do
+      "#{title} - "
+    end
+  end
+
   def render_article(article)
     partial 'article', locals: { article: article }
   end
 
   def render_article_list(articles, options={})
-    option = { date_format: :short }.merge(options)
+    options = { date_format: :short }.merge(options)
 
     partial 'article_list', locals: { articles: articles, options: options }
   end

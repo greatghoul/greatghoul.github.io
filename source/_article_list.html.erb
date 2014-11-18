@@ -1,6 +1,6 @@
 <ul class="list-group">
 <% articles.each do |article| %>
-  <a href="<%= article.url %>" class="list-group-item">
+  <a href="<%= article.url %>" class="list-group-item <%= options[:date_format] %>">
     <span class="badge"><%= to_date(article.date, options[:date_format]) %></span>
     <%= article.title %>
   </a>

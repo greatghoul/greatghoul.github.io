@@ -1,4 +1,6 @@
 <% wrap_layout :layout do %>
+  <% drop_title(current_article.title) %>
+
   <article class="panel panel-default article">
     <div class="panel-heading">
       <h1 class="panel-title"><%= current_article.title %></h1>
@@ -7,7 +9,9 @@
     </div>
 
     <div class="panel-body">
-      <%= current_article.body %>
+      <div class="article-body">
+        <%= current_article.body %>
+      </div>
       
       <%= render_article_tags(current_article) %>
     </div>
