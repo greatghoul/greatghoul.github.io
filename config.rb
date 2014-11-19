@@ -14,7 +14,6 @@ activate :blog do |blog|
 
   blog.permalink = ":year/:month/:title"
   blog.sources = "posts/:year/:month/:title.html"
-  blog.taglink = "tags/{tag}/"
   blog.layout = "layouts/article"
   blog.summary_separator = /(READMORE)/
   blog.summary_length = 250
@@ -32,6 +31,10 @@ activate :directory_indexes
 
 activate :disqus do |d|
   d.shortname = 'g2world'
+end
+
+activate :google_analytics do |ga|
+  ga.tracking_id = 'UA-19523104-1'
 end
 
 page "/feed.xml", layout: false
@@ -113,6 +116,7 @@ end
 
 # Deploy
 activate :deploy do |deploy|
+  deploy.build_before = true
   deploy.method = :git
   # Optional Settings
   # deploy.remote   = 'custom-remote' # remote name or git url, default: origin
