@@ -17,19 +17,14 @@
       <%= yield %>
 
       <% if paginate %>
-        <nav>
-          <ul class="pager">
-            <% if prev_page %>
-              <li class="previous"><a href="<%= prev_page.url %>">&larr; 上一页</a></li>
-            <% end %>
-          
-            <% if next_page %>
-              <li class="next"><a href="<%= next_page.url %>">下一页 &rarr;</a></li>
-            <% end %>
-          </ul>
-        </nav>
+      <div class="paginator">
+        <a href="<%= prev_page.url rescue '#' %>" class="btn btn-default">&laquo; 上一页</a>
+        <a href="<%= next_page.url rescue '#' %>" class="btn btn-default">下一页 &raquo;</a>
+      </div>
       <% end %>
     </div>
+
+    <%= partial 'footer' %>
 
     <%= javascript_include_tag 'all' %>
   </body>

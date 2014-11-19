@@ -9,6 +9,13 @@
 	font-style: normal;
 }
 
+@font-face {
+  font-family: 'Damion';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Damion'), font-url('Damion.woff2') format('woff2');
+}
+
 [class^="icon-"], [class*=" icon-"] {
 	font-family: 'icomoon';
 	speak: none;
