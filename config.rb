@@ -13,7 +13,7 @@ activate :blog do |blog|
   # blog.prefix = "blog"
 
   blog.permalink = ":year/:month/:title"
-  blog.sources = "posts/:year/:month/:title.html"
+  blog.sources = "posts/:year/:month/:title"
   blog.layout = "layouts/article"
   blog.summary_separator = /(READMORE)/
   blog.summary_length = 250

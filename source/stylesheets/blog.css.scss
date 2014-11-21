@@ -74,6 +74,13 @@ header {
   word-break: break-all;
 }
 
+.article-content {
+  h1, h2 {
+    border-bottom: 1px solid #dddddd;
+    padding-bottom: 5px;
+  }
+}
+
 .article-summary * {
   font-weight: normal !important;
   font-size: 1em !important;
