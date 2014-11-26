@@ -1,6 +1,6 @@
 ---
 title: 用 Remarkjs 和 Markdown 写幻灯片
-date: 2014-11-21 17:55 CST
+date: 2014-11-21 17:55
 tags: markdown, slides
 ---
 
