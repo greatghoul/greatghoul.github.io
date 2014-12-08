@@ -81,6 +81,15 @@ header {
   }
 }
 
+.article-cover {
+  margin-left: -15px;
+  margin-right: -15px;
+  margin-top: -15px;
+  margin-bottom: 15px;
+  max-height: 200px;
+  overflow-y: hidden;
+}
+
 .article-summary * {
   font-weight: normal !important;
   font-size: 1em !important;

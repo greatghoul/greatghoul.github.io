@@ -4,6 +4,12 @@
   </div>
 
   <div class="panel-body">
+    <% if article.data.cover %>
+      <div class="article-cover">
+        <img src="<%= article.data.cover %>" />
+      </div>
+    <% end %>
+
     <div class="article-summary">
       <%= render_article_summary(article) %>
     </div>
