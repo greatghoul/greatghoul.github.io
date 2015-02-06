@@ -2,7 +2,10 @@
 title: SAE Python 应用开发和部署环境搭建
 date: 2015-02-06 22:40 CST
 tags: sae, python
+cover: http://greatghoul.b0.upaiyun.com/1502/rx8bA89aC6_N.png
 ---
+
+![](http://greatghoul.b0.upaiyun.com/1502/rx8bA89aC6_N.png)
 
 因为 [GAE] 在国内访问不便，所以平时有一些小应用，我都会放在 SAE 上面，
 虽然 [SAE] 还有很多缺陷，但算是上手比较容易的一个了，最起码[文档][1]写的不错。

@@ -39,6 +39,9 @@ header {
   .panel-body {
     img {
       max-width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
     }
   }
 
@@ -88,6 +91,10 @@ header {
   margin-bottom: 15px;
   max-height: 200px;
   overflow-y: hidden;
+
+  img {
+    width: 100%;
+  }
 }
 
 .article-summary * {
