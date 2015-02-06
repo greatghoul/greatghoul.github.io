@@ -44,19 +44,52 @@ ReadKit 默认的设置并不太方便，所以我需要慢慢调教她了。
 Aol Reader，而我又不太习惯 Feedly 杂志式的阅读体验，万幸 Feedly 的移动应用体验非常棒，
 所以迁移到 Feedly 也还算 OK。电脑上阅读就用 ReadKit，移动设备上就用 Feedly 的 App。
 
+### 稍后阅读
+
 ReadKit 还支持 [Readability] 和 [Pocket]，这两个服务我都在用，
 刚好可以都集成到 ReadKit 里面来。
 
-![](http://deeppic.b0.upaiyun.com/1502/7kYmg-mL.png)
+![](http://greatghoul.b0.upaiyun.com/1502/fwsxmhgfFxab.png)
 
 而 ReadKit 的 Smart Folder 会自动将 Readability 和 Pocket 的未读条目汇总到
 **Read Later** 类别下，方便至极。
 
-![](http://deeppic.b0.upaiyun.com/1502/my-sgbmI.png)
+![](http://greatghoul.b0.upaiyun.com/1502/uwsrmc1esr_-.png)
 
 ### 快捷键
 
+ReadKit 默认的一些快捷键并不好用，比如进入 Focus Mode 是 `Shift+Cmd+L`，
+进行 Focus Mode 进行阅读是非常常用的操作，这个组合键略显麻烦，所以稍稍做一些修改。
 
+- 专注模式：`→`
+- 阅读原文：`Cmd →`
+
+这样如果一个文章比较长，可以方便的通过右方向键进入专注阅读的模式，如果想查看原文，
+可以按下 `Cmd →`，而从原文返回到阅读器页面或者返回列表，只需要按下左方向键就可以了。
+
+**专注阅读模式**
+![](http://greatghoul.b0.upaiyun.com/1502/SmmIpRjbxARD.png)
+
+整个过程非常顺滑。
+
+### 强迫症选项
+
+ReadKit 在有新阅读条目时，会有系统通知，但强迫症患者还希望 Docker 图标中提示下未读数，
+以激起阅读的欲望。
+
+在相关账户的设定中，勾选 **Show in dock badge** 就可以了。
+
+![](http://greatghoul.b0.upaiyun.com/1502/gvmn6iThrz4D.png)
+
+### 分享的乐趣
+
+遇到好的文章，当然要与人分享了，遇到暂时没有空读的长文章，也可以添加到稍后再读。
+
+![](http://greatghoul.b0.upaiyun.com/1502/3IxRzYXjIfaN.png)
+
+---
+
+最后感慨一下，Mac 下面的好软件好多呀。
 
 [gReader]: https://github.com/amoblin/gReader
 [NewsZeit]: https://www.newszeit.com/
