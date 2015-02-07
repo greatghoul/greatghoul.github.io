@@ -2,6 +2,7 @@
 title: 记日记：从 ohlife 到 littlememo
 date: 2014-10-28 21:46
 tags: story
+cover: http://pic.yupoo.com/greatghoul_v/EajFgG0Q/1bAOm.jpg
 ---
 
 ![](http://pic.yupoo.com/greatghoul_v/EajFgG0Q/1bAOm.jpg)
