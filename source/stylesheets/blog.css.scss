@@ -39,9 +39,14 @@ header {
   .panel-body {
     img {
       max-width: 100%;
-      margin-left: auto;
-      margin-right: auto;
-      display: block;
+    }
+
+    p:first-child {
+      img {
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+      }
     }
   }
 
@@ -77,6 +82,10 @@ header {
   word-break: break-all;
 }
 
+.panel-tags .panel-body {
+  word-break: normal;
+}
+
 .article-content {
   h1, h2 {
     border-bottom: 1px solid #dddddd;
@@ -89,7 +98,7 @@ header {
   margin-right: -15px;
   margin-top: -15px;
   margin-bottom: 15px;
-  max-height: 200px;
+  max-height: 300px;
   overflow-y: hidden;
 
   img {
@@ -177,7 +186,13 @@ body > footer {
 
 /* Extra Small Devices, Phones */ 
 @media only screen and (max-width : 480px) {
+  .meta-tags {
+    display: none;
+  }
 
+  .article-tags {
+    display: block;
+  }
 }
 
 /* Custom, iPhone Retina */ 
@@ -195,14 +210,6 @@ body > footer {
 
   .article-title + .article-meta {
     margin-top: 2px;
-  }
-
-  .article-tags {
-    display: block;
-  }
-
-  .meta-tag {
-    display: none;
   }
 }
 
