@@ -1,6 +1,6 @@
 ---
 title: 百度短网址应用
-date: 2015-02-09 11:42 CST
+date: 2015-02-09 11:42
 tags: webapp, javascript
 cover: http://greatghoul.b0.upaiyun.com/1502/FvUGgWkdKLc9.png
 ---
