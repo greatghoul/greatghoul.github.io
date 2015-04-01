@@ -31,7 +31,7 @@ cover: http://greatghoul.b0.upaiyun.com/1503/2oir_HObz30v.png
 
 项目地址在这里，欢迎交流和反馈：
 
-https://github.com/GDG-Xian/crx-tower
+<https://github.com/GDG-Xian/crx-tower>
 
 ## 安装扩展
 
