@@ -35,3 +35,32 @@ published: false
 
 > [系统首页](#) / [文章管理](#) / 文章列表
 
+
+    def render_breadcrumbs
+      @breadcrumbs.last[:active] = 'active'
+      @breadcrumbs.first[:icon] = 'home'
+      render '/shared/breadcrumbs'
+    end
+
+controller
+
+    def drop_breadcrumb(text, url=nil)
+      @breadcrumbs ||= []
+      @breadcrumbs.push({ text: text, url: url})
+      @title = text
+    end
+
+页面部分
+
+    <ol class="breadcrumb">
+      <% @breadcrumbs.each do |breadcrumb| %>
+        <%= content_tag :li, class: breadcrumb[:active] do %>
+          <% if breadcrumb[:url] %>
+            <%= fa_icon(breadcrumb[:icon]) if breadcrumb[:icon] %>
+            <%= link_to breadcrumb[:text], breadcrumb[:url] %>
+          <% else %>
+            <%= breadcrumb[:text] %>
+          <% end %>
+        <% end %>
+      <% end %>
+    </ol>
