@@ -13,7 +13,7 @@ jquery ujs 包含一些非常便捷的功能，比如确认对话框、触发 aj
 
 通过添加简单的标签属性，jquery ujs 可以把一个普通的链接或者表单转换成 ajax 提交，而不需要写 JavaScript 代码。
 
-    <%= link_to '关闭项目', close_project_path(project), remote: true, method: :patch %>
+    <%= link_to '关闭项目', close_project_path(project), remote: true, method: :post %>
 
 上面的代码会生成如下的代码
 
