@@ -44,7 +44,7 @@ tags:
 
 从本地安装：
 
-<https://github.com/GDG-Xian/crx-tower/releases/tag/1.2.1>
+<https://github.com/GDG-Xian/crx-tower/releases/tag/1.2.2>
 
 
 [1]: http://g2w.me/2015/04/tower-plug-v1-1/
