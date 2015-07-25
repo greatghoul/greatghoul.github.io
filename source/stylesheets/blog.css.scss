@@ -59,7 +59,13 @@ header {
       }
     }
   }
+}
 
+.page-article {
+  .article-title {
+    font-size: 1.1em;
+    color: #555;
+  }
 }
 
 /* Article Styles */
@@ -122,8 +128,6 @@ header {
 }
 
 .article-tags {
-  display: none;
-
   .tag {
     font-size: .8em;
     color: #999;
@@ -192,16 +196,9 @@ body > footer {
 
 }
 
-
 /* Extra Small Devices, Phones */ 
 @media only screen and (max-width : 480px) {
-  .meta-tags {
-    display: none;
-  }
 
-  .article-tags {
-    display: block;
-  }
 }
 
 /* Custom, iPhone Retina */ 

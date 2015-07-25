@@ -2,22 +2,13 @@
   <div class="pull-right">
     <div class="meta meta-comment">
       <a href="<%= article.url %>#disqus_thread">
-        <span class="icon-comment"></span> 发表评论
+        <span class="icon-comments"></span> 发表评论
       </a>  
     </div>
   </div>
 
   <div class="meta meta-time">
-    <span class="icon-clock"></span>
+    <span class="icon-clock-o"></span>
     <time datetime="<%= to_date(article.date) %>"><%= to_date(article.date) %></time>
   </div>
-
-  <% if article.tags.any? %>
-    <div class="meta meta-tags">
-      <span class="icon-tag"></span>
-      <% article.tags.each do |tag| %>
-        <%= link_to tag, tag_path(tag) %>
-      <% end %>
-    </div>  
-  <% end %>
 </div>
