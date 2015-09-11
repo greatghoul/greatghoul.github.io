@@ -1,5 +1,4 @@
 require "lib/tag_cloud"
-require "lib/blog_helpers"
 
 ###
 # Blog settings
@@ -7,26 +6,27 @@ require "lib/blog_helpers"
 
 Time.zone = "Beijing"
 
+activate :blog do |config|
+  config.name = 'Ask and Learn'
+  config.publish_future_dated = true
 
-activate :blog do |blog|
-  # This will add a prefix to all links, template references and source paths
-  # blog.prefix = "blog"
-  blog.publish_future_dated = true
+  config.permalink = ":year/:month/:title"
+  config.sources = "posts/:year/:month/:title"
+  config.layout = "layouts/article"
+  config.summary_separator = /(READMORE)/
+  config.summary_length = 250
+  config.default_extension = ".md"
 
-  blog.permalink = ":year/:month/:title"
-  blog.sources = "posts/:year/:month/:title"
-  blog.layout = "layouts/article"
-  blog.summary_separator = /(READMORE)/
-  blog.summary_length = 250
-  blog.default_extension = ".md"
-
-  blog.tag_template = "tag.html"
+  config.tag_template = "tag.html"
 
   # Enable pagination
-  blog.paginate = true
-  blog.per_page = 10
-  blog.page_link = "page/{num}"
+  config.paginate = true
+  config.per_page = 10
+  config.page_link = "page/{num}"
 end
+
+require "lib/blog_article_ext"
+
 
 activate :directory_indexes
 
@@ -85,9 +85,6 @@ page "/tags.html"
 # Methods defined in the helpers block are available in templates
 # helpers do
 # end
-
-# External defined helpers.
-helpers BlogHelpers
 
 set :css_dir, 'stylesheets'
 
