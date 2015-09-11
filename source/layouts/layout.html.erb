@@ -4,8 +4,8 @@
     <meta charset="utf-8" />
     <meta http-equiv='X-UA-Compatible' content='IE=edge;chrome=1' />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-
-    <title><%= yield_content(:title) %>Ask and Learn</title>
+    
+    <%= auto_display_meta_tags site: blog.options.name %>
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
 
     <%= stylesheet_link_tag 'all' %>

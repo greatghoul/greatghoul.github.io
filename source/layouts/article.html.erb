@@ -1,5 +1,7 @@
 <% wrap_layout :layout do %>
-  <% drop_title(current_article.title) %>
+  <% set_meta_tags title: current_article.title,
+                   description: current_article.description,
+                   keywords: current_article.tags.join(', ') %>
 
   <div class="page-article">
     <article class="panel panel-default article">

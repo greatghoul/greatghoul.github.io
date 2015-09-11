@@ -8,6 +8,7 @@ gem 'middleman-deploy', '~> 0.3.0'
 gem "nokogiri", "~> 1.6.4.1"
 gem "middleman-disqus"
 gem "middleman-google-analytics"
+gem 'middleman-meta-tags'
 
 # For feed.xml.builder
 gem "builder", "~> 3.0"

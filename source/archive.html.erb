@@ -1,4 +1,4 @@
-<% drop_title('归档') %>
+<% set_meta_tags title: '归档' %>
 
 <% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
   <div class="panel panel-default">

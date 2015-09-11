@@ -29,6 +29,7 @@ require "lib/blog_article_ext"
 
 
 activate :directory_indexes
+activate :meta_tags
 
 activate :disqus do |d|
   d.shortname = 'g2world'
