@@ -3,6 +3,12 @@
                    description: current_article.description,
                    keywords: current_article.tags.join(', ') %>
 
+  <% if current_article.data.cover %>
+    <div class="article-cover" style="display: none;">
+      <img src="<%= current_article.data.cover %>" />
+    </div>
+  <% end %>
+
   <div class="page-article">
     <article class="panel panel-default article">
       <div class="panel-heading">
