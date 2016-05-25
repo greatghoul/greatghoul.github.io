@@ -116,12 +116,12 @@ end
 # Deploy
 activate :deploy do |deploy|
   deploy.method = :rsync
-  deploy.host   = 'g2w.me'
-  deploy.path   = '/home/blog'
+  deploy.host   = 'ghoulmind.com'
+  deploy.path   = '/home/deploy/ghoulmind'
 
   ## Optional Settings
 
-  deploy.user  = 'root'
+  deploy.user  = 'deploy'
   # deploy.clean = true # remove orphaned files on remote host, default: false
   # deploy.flags = '-rltgoDvzO --no-p --del' # add custom flags, default: -avz
 end
