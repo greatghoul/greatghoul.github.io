@@ -35,9 +35,9 @@ cover: http://greatghoul.b0.upaiyun.com/1502/FvUGgWkdKLc9.png
 
 ## 百度短网址
 
-项目：<https://coding.net/u/greatghoul/p/dwz/git>
+项目：<https://github.com/greatghoul/dwz>
 
-演示：<http://dwz.coding.io/>
+演示：<http://dwz.ghoulmind.com/>
 
 ![](http://greatghoul.b0.upaiyun.com/1502/W3dStVl_7CqY.png)
 
