@@ -6,6 +6,9 @@ require "lib/tag_cloud"
 
 Time.zone = "Beijing"
 
+set :markdown, :tables => true, :autolink => true, :gh_blockcode => true, :fenced_code_blocks => true
+set :markdown_engine, :redcarpet
+
 activate :blog do |config|
   config.name = 'Ask and Learn'
   config.publish_future_dated = true

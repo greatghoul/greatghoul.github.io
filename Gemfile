@@ -12,3 +12,4 @@ gem 'middleman-meta-tags'
 
 # For feed.xml.builder
 gem "builder", "~> 3.0"
+gem 'redcarpet'
