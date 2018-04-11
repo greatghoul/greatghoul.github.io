@@ -1,4 +1,5 @@
 ---
+layout: post
 title: SQLAlchemy使用sqlite查询随机结果
 slug: select-random-results-using-sqlalchemy-sqlite
 date: 2011-06-14 13:54

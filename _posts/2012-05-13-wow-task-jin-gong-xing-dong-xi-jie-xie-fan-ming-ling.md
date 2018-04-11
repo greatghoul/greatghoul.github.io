@@ -1,4 +1,5 @@
 ---
+layout: post
 title: WOW任务“进攻行动细节”中“血帆命令”的位置
 slug: wow-task-jin-gong-xing-dong-xi-jie-xie-fan-ming-ling
 date: 2012-05-13 01:01

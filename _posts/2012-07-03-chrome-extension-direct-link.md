@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 跳过Google搜索结果链接安全检查的Chrome扩展 Direct LINK
 slug: chrome-extension-direct-link
 date: 2012-07-03 07:31

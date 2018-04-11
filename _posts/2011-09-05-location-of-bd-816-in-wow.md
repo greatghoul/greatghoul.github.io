@@ -1,4 +1,5 @@
 ---
+layout: post
 title: WOW任务“问问爱丽斯”中BD-816战斗仪器的位置
 slug: location-of-bd-816-in-wow
 date: 2011-09-05 20:58

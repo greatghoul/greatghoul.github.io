@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Google Tasks for Pomotodo 0.3
 slug: google-tasks-for-pomootodo-0-3
 date: 2013-01-11 13:25

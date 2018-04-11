@@ -1,4 +1,5 @@
 ---
+layout: post
 title: java打开资源管理器的跨平台解决方法
 slug: java-open-file-explorer-cross-platform
 date: 2011-04-28 00:51

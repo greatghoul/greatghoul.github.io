@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "vim 错误 E73: tag stack empty"
 slug: vim-exception-e73-tag-stack-empty
 date: 2012-05-08 21:18

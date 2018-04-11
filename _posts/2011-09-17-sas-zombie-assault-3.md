@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 类似孤胆枪手的网页游戏 SAS ZOMBIE ASSAULT 3
 slug: sas-zombie-assault-3
 date: 2011-09-17 13:08

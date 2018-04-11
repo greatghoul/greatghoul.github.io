@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Python发送简单电子邮件
 slug: python-send-simple-text-email
 date: 2011-08-31 05:54

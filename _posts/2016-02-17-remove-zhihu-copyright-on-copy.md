@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 移除复制知乎回答内容时的版权说明
 date: 2016-02-17 17:04 CST
 tags:

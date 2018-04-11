@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 使用Mina部署本地仓库的Rails应用
 slug: deploy-local-repository-with-mina
 date: 2013-09-17 16:41

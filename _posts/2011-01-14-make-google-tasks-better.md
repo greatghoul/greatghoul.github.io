@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Google Tasks可能将迎来几大改善
 slug: make-google-tasks-better
 date: 2011-01-14 09:46

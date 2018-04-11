@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 谨慎使用 python 全局日志
 slug: take-care-of-python-root-logger
 date: 2012-08-09 15:08

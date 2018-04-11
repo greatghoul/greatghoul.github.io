@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 升级到ruby-1.9.3p362后服务间隙崩溃
 slug: ruby-crashed-on-version-1.9.3p362
 date: 2013-01-05 09:10

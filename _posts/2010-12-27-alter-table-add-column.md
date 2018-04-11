@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Alter Table Add Column
 slug: alter-table-add-column
 date: 2010-12-27 18:19

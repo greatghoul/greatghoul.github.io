@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 基于remark和github的幻灯片工具 -- Remarks
 slug: intro-remarks
 date: 2013-04-17 10:49

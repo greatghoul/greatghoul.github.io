@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 取得windows系统当前进程列表，并计算占用的内存总值
 slug: sum-tasks-memories-in-windows-by-python
 date: 2011-02-09 19:57

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: PIL对图像进行局部高斯模糊
 slug: gaussian-blur-on-selection-area-using-python-pil
 date: 2012-09-21 10:34

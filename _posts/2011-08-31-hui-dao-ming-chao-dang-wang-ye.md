@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 推荐小说：回到明朝当王爷
 slug: hui-dao-ming-chao-dang-wang-ye
 date: 2011-08-31 00:00

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 油猴脚本Google Code Filter更新至0.2版
 slug: google-code-filter-update-0-2
 date: 2011-11-29 01:13

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 记日记：从 ohlife 到 littlememo
 date: 2014-10-28 21:46
 tags: story

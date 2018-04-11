@@ -1,4 +1,5 @@
 ---
+layout: post
 title: JavaScript实现简单的文本模板函数
 slug: javascript-simple-templating-method
 date: 2012-07-10 09:26

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 《侧耳倾听》中的弦乐重奏——Country Road
 slug: country-road
 date: 2010-11-18 20:45

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: linux下安装支付宝安全控件
 slug: install-aliedit-for-linux
 date: 2011-01-25 23:34

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: wxPython中使用剪贴板存取文本数据
 slug: text-processing-in-wxpython-clipboard
 date: 2011-01-13 16:17

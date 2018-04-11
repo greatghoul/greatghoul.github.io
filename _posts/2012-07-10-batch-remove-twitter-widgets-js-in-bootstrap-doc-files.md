@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 清除twitter脚本，在本地顺畅浏览bootstrap文档
 slug: batch-remove-twitter-widgets-js-in-bootstrap-doc-files
 date: 2012-07-10 12:32

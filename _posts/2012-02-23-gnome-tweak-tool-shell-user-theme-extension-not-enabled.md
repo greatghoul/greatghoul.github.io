@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 解决 gnome-tweak-tool 无法更换主题的问题
 slug: gnome-tweak-tool-shell-user-theme-extension-not-enabled
 date: 2012-02-23 20:40

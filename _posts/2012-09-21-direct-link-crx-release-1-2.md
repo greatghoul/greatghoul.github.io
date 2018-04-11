@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Chrome扩展Direct Link更新至1.2
 slug: direct-link-crx-release-1-2
 date: 2012-09-21 02:07

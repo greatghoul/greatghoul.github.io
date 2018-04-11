@@ -1,4 +1,5 @@
 ---
+layout: post
 title: PyCharm中配置python库的导入路径
 slug: pycharm-setup-package-path
 date: 2012-10-29 23:51

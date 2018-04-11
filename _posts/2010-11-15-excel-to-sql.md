@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 将Excel中的数据转成sql脚本
 slug: excel-to-sql
 date: 2010-11-15 22:29

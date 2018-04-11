@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 解决 rails 的 data-remote 链接生效前用户误触的问题
 date: 2015-07-17 00:36 CST
 tags:

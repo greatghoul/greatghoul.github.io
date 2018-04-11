@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 在git-bash配置gvim
 slug: use-gvim-in-git-bash
 date: 2012-04-30 13:33

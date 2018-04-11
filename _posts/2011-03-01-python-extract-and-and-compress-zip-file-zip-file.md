@@ -1,4 +1,5 @@
 ---
+layout: post
 title: python压缩和解压zip
 slug: python-extract-and-and-compress-zip-file-zip-file
 date: 2011-03-01 00:02

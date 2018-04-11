@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Google Reader 分享挂件导致页面加载缓慢
 slug: google-reader-shared-items-gadget-sucks
 date: 2012-07-19 16:26

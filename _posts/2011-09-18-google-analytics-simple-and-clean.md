@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Google Analytics也换上了小清新登陆页面
 slug: google-analytics-simple-and-clean
 date: 2011-09-18 03:43

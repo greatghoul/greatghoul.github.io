@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 骑车上班一个月的感受
 slug: riding-to-work
 date: 2013-08-09 06:41

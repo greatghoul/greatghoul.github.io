@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 分享一些极品笑话
 slug: best-jokes
 date: 2011-09-22 20:27

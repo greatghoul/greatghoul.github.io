@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "jquery Uncaught Error: NOT_FOUND_ERR: DOM Exception 8"
 slug: jquery-uncaught-error-not-found-err-dom-exception-8
 date: 2012-07-19 14:12

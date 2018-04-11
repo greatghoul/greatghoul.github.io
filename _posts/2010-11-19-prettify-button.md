@@ -1,4 +1,5 @@
 ---
+layout: post
 title: WP插入代码插件 Prettify Button 发布
 slug: prettify-button
 date: 2010-11-19 20:10

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 安装 dbus-python
 slug: install-dbus-python
 date: 2014-01-30 10:26

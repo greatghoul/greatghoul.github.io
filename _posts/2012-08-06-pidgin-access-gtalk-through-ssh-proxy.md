@@ -1,4 +1,5 @@
 ---
+layout: post
 title: pidgin 使用 ssh 代理连接Google Talk
 slug: pidgin-access-gtalk-through-ssh-proxy
 date: 2012-08-06 10:10

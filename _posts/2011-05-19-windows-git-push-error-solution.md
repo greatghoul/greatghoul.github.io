@@ -1,4 +1,5 @@
 ---
+layout: post
 title: windows下git push报Permission denied的解决方案
 slug: windows-git-push-error-solution
 date: 2011-05-19 22:42

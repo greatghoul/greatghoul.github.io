@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 恢复 git 中误删的文件
 slug: restore-deleted-file-in-git
 date: 2012-05-01 23:47

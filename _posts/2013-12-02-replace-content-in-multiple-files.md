@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 多文件内容批量替换
 slug: replace-content-in-multiple-files
 tags: [linux, shell]

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 隔行变色(JS+CSS)
 slug: interlaced-color-js-css
 date: 2011-08-16 22:01

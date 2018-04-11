@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Bootstrap Modal 垂直居中
 slug: bootstrap-modal-shown-in-the-center
 date: 2012-06-05 10:22

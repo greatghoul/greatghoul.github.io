@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 十字绣计划 之 图片转换色块图
 slug: cross-stitch-convert-image-to-pattern-image
 date: 2011-06-07 20:25

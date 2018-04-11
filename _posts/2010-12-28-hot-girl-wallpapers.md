@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 2010年12月辣妹壁纸分享
 slug: hot-girl-wallpapers
 date: 2010-12-28 11:57

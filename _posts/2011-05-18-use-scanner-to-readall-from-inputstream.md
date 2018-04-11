@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 巧用Scanner读取输入流中的所有内容
 slug: use-scanner-to-readall-from-inputstream
 date: 2011-05-18 13:18

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Bootstrap定制页面的chrome插件
 slug: user-bootstrap-1-1
 date: 2012-06-10 11:43

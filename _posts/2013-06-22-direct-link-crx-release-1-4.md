@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Chrome扩展Direct Link更新至1.4
 slug: direct-link-crx-release-1-4
 date: 2013-06-22 18:49

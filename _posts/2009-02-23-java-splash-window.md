@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Java启动画面类
 slug: java-splash-window
 date: 2009-02-23 19:13

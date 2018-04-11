@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 使用rpclib编写webservice时注意使用unicode注释
 slug: rpclib-webservice-with-unicode-document-comment
 date: 2012-07-26 11:54

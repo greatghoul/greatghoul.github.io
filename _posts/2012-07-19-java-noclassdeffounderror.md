@@ -1,4 +1,5 @@
 ---
+layout: post
 title: java NoClassDefFoundError
 slug: java-noclassdeffounderror
 date: 2012-07-19 10:02

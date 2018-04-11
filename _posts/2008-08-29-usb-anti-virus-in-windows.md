@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 如何知道自己的u盘是否中毒
 slug: usb-anti-virus-in-windows
 date: 2008-08-29 19:29

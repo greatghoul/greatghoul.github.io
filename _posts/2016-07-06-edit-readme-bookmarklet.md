@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 编辑 GITHUB README 的小书签
 date: 2016-07-06 21:58 CST
 tags:

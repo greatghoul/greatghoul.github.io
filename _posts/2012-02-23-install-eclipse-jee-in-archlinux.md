@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Archlinux安装eclipse-jee
 slug: install-eclipse-jee-in-archlinux
 date: 2012-02-23 20:11

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 同步 Chrome 扩展的用户偏好
 slug: sync-chrome-extension-options
 date: 2014-08-02 10:22

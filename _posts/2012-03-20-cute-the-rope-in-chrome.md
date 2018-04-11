@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Chrome游戏：割绳子
 slug: cute-the-rope-in-chrome
 date: 2012-03-20 21:33

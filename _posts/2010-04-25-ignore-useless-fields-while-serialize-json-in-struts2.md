@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Sturts2 使用 json-plugin序列化时屏蔽无关对象
 slug: ignore-useless-fields-while-serialize-json-in-struts2
 date: 2010-04-25 00:57

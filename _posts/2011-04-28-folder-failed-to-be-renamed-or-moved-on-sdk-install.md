@@ -1,4 +1,5 @@
 ---
+layout: post
 title: folder failed to be renamed or moved on Android SDK install
 slug: folder-failed-to-be-renamed-or-moved-on-sdk-install
 date: 2011-04-28 00:18

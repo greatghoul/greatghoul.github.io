@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Hibernate could not locate named parameter
 slug: hibernate-could-not-locate-named-parameter
 date: 2010-11-19 00:30

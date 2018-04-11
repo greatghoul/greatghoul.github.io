@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 恒源祥最坑爹的广告-十二生肖
 slug: a-fucking-ads
 date: 2011-08-28 15:55

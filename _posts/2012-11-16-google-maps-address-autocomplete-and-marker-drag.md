@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Google Maps 搜索建议和地标拖动示例
 slug: google-maps-address-autocomplete-and-marker-drag
 date: 2012-11-16 00:24

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 去掉OpenOffice中讨厌的灰格子
 slug: remove-openoffice-field-shadings
 date: 2009-02-18 23:48

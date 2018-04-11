@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Chrome 划词翻译扩展 TransIt V1.2 发布
 slug: transit-v1-2-released
 date: 2014-05-30 16:22

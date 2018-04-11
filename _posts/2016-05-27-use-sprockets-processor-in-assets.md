@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 使用 Sprockets Processor 剔除 CSS 中的 Google Font
 date: 2016-05-27 00:44 CST
 tags: rails

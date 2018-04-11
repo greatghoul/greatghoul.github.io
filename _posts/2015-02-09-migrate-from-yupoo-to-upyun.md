@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 艰难的迁移之路：从又拍图片管家到又拍云
 date: 2015-02-09 15:33
 tags: migrate, upyun, python

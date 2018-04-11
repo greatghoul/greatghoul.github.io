@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 魔兽世界切换战斗和钓鱼模式宏
 slug: wow-macro-toggle-fishing
 date: 2011-11-28 23:52

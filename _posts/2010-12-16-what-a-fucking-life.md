@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 人生总是充满波折
 slug: what-a-fucking-life
 date: 2010-12-16 18:57

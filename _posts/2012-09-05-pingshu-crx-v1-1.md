@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 更新Chrome扩展：听评书 V1.1
 slug: pingshu-crx-v1-1
 date: 2012-09-05 23:59

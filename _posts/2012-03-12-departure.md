@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 今日申请离职
 slug: departure
 date: 2012-03-12 21:42

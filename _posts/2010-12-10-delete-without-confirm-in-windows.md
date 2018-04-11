@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Windows下设置删除文件不显示提示框
 slug: delete-without-confirm-in-windows
 date: 2010-12-10 10:25

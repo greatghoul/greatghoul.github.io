@@ -1,4 +1,5 @@
 ---
+layout: post
 title: python-mutagen操作MP3的ID3信息
 slug: work-with-mp3-id3-using-python-mutagen
 date: 2011-09-15 01:11

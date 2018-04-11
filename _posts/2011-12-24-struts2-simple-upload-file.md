@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Struts2上传文件并限定文件类型和大小
 slug: struts2-simple-upload-file
 date: 2011-12-24 00:33

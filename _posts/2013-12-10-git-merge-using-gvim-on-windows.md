@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Windows 下使用 gvimdiff 合并 git 冲突
 slug: git-merge-using-gvim-on-windows
 tags: [windows, git, gvim]

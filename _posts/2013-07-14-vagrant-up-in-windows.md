@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Windows 下配置 Vagrant 环境
 slug: vagrant-up-in-windows
 date: 2013-07-14 01:27

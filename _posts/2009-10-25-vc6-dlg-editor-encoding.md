@@ -1,4 +1,5 @@
 ---
+layout: post
 title: VC6 对话框编辑器在预览时显示乱码
 slug: vc6-dlg-editor-encoding
 date: 2009-10-25 19:11

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: MMORPG网页游戏：Crystal Saga
 slug: crystal-saga
 date: 2011-09-16 23:01

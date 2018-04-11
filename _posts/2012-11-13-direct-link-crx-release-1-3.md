@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 喜迎某大，Chrome扩展Direct Link更新至1.3
 slug: direct-link-crx-release-1-3
 date: 2012-11-13 13:37

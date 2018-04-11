@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 卸载.Net Framework导致应用程序启动失败
 slug: error-after-remove-net-framework
 date: 2010-12-25 11:37

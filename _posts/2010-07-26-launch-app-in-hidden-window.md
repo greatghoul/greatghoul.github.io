@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 利用VBScript在隐藏窗口中运行应用程序
 slug: launch-app-in-hidden-window
 date: 2010-07-26 20:39

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 萌猫壁纸分享
 slug: cat-wallpapers
 date: 2010-11-20 22:59

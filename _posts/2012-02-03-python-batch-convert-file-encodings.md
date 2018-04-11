@@ -1,4 +1,5 @@
 ---
+layout: post
 title: python批量转换文件编码
 slug: python-batch-convert-file-encodings
 date: 2012-02-03 02:26

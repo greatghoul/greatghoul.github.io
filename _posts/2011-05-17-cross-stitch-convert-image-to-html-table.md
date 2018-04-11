@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 十字绣计划之图片转换HTML色块表
 slug: cross-stitch-convert-image-to-html-table
 date: 2011-05-17 19:55

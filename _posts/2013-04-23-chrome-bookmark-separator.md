@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 给Chrome书签栏添加分隔线 
 slug: chrome-bookmark-separator
 date: 2013-04-23 11:06

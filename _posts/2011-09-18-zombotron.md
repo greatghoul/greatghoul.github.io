@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 横卷轴射击类网页游戏：ZOMBOTRON
 slug: zombotron
 date: 2011-09-18 03:04

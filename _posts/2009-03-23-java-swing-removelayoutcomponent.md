@@ -1,4 +1,5 @@
 ---
+layout: post
 title: LayoutManager删除Component的的误区
 slug: java-swing-removelayoutcomponent
 date: 2009-03-23 19:39

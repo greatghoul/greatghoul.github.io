@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 火狐下禁用表单自动完成
 slug: disable-firefox-autocomplete-on-web-page
 date: 2012-06-07 18:03

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 游戏推荐：富有创意的消除类游戏 Knightfall
 slug: knightfall
 date: 2012-03-13 13:55

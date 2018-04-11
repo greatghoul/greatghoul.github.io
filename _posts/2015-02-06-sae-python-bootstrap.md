@@ -1,4 +1,5 @@
 ---
+layout: post
 title: SAE Python 应用开发和部署环境搭建
 date: 2015-02-06 22:40
 tags: sae, python

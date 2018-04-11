@@ -1,4 +1,5 @@
 ---
+layout: post
 title: WOW存荣没哀任务中费罗的尸体位置
 slug: wow-cun-rong-mo-ai
 date: 2011-08-28 15:41

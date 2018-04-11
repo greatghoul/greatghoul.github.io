@@ -1,4 +1,5 @@
 ---
+layout: post
 title: FactoryGirl 中 create_list 未生效
 date: 2015-10-29 23:36 CST
 tags:

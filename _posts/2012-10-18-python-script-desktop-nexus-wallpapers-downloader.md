@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 批量下载DesktopNexus壁纸
 slug: python-script-desktop-nexus-wallpapers-downloader
 date: 2012-10-18 14:12

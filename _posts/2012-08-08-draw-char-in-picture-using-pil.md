@@ -1,4 +1,5 @@
 ---
+layout: post
 title: PIL批量给图片加上字母序号
 slug: draw-char-in-picture-using-pil
 date: 2012-08-08 12:44

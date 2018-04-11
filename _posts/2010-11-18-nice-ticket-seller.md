@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 平凡的售票员
 slug: nice-ticket-seller 
 date: 2010-11-18 19:43

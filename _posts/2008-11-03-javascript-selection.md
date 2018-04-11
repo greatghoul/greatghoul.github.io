@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 用javascript选中页面指定文本
 slug: javascript-selection
 date: 2008-11-03 19:16

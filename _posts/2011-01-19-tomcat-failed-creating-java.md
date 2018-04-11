@@ -1,4 +1,5 @@
 ---
+layout: post
 title: tomcat启动失败:Failed creating java jvm.dll
 slug: tomcat-failed-creating-java
 date: 2011-01-19 03:02

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: XT800搭配QQ主动远程协助
 slug: xt800-qq-remote-assistance
 date: 2010-11-14 21:48

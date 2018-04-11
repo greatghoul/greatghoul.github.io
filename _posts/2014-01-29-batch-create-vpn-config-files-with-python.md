@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 用 Python 批量创建云梯 VPN 连接配置
 slug: batch-create-vpn-config-files-with-python
 date: 2014-01-29 09:12

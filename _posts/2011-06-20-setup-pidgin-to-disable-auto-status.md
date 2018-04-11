@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 设置pidgin避免频繁更改状态
 slug: setup-pidgin-to-disable-auto-status
 date: 2011-06-20 22:55

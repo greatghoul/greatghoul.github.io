@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 街头卖艺
 slug: street-begging
 date: 2011-08-30 19:12

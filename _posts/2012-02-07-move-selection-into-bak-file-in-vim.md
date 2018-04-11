@@ -1,4 +1,5 @@
 ---
+layout: post
 title: VIM中移动选中内容到备份文件
 slug: move-selection-into-bak-file-in-vim
 date: 2012-02-07 00:30

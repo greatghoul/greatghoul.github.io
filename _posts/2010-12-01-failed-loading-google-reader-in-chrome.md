@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Chrome下Google Reader访问异常
 slug: failed-loading-google-reader-in-chrome
 date: 2010-12-01 18:11

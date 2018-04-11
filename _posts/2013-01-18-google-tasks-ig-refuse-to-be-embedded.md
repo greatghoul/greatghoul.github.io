@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Google Tasks 不再允许别家网站iframe嵌入 
 slug: google-tasks-ig-refuse-to-be-embedded
 tags: [google]

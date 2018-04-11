@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Chrome的Google Reader扩展：Chrome Reader
 slug: chrome-reader
 date: 2011-09-16 13:48

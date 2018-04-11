@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 数字的魔法
 date: 2015-12-04 00:40 CST
 tags:

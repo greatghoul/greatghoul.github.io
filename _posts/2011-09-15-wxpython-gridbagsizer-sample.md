@@ -1,4 +1,5 @@
 ---
+layout: post
 title: wxPython布局GridBagSizer的应用
 slug: wxpython-gridbagsizer-sample
 date: 2011-09-15 21:57

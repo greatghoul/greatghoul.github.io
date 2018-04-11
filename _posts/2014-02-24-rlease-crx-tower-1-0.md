@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Chrome 扩展 Tower.im Plus 发布
 slug: rlease-crx-tower-1-0
 date: 2014-02-24 11:22

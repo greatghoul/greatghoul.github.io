@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 百度地图地址自动完成控件的 z-index 问题
 slug: bmap-autocomplete-zindex-issue
 date: 2013-12-23 15:54

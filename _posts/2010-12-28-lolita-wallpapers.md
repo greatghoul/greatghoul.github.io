@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 2010年12月萝莉壁纸分享
 slug: lolita-wallpapers
 date: 2010-12-28 13:02

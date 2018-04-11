@@ -1,4 +1,5 @@
 ---
+layout: post
 title: SkillPages利用用户授权滥用联系人信息
 slug: skillpages-sucks
 date: 2013-03-07 12:56

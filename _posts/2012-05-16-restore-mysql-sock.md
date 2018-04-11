@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 找回 /tmp/mysql.sock
 slug: restore-mysql-sock
 date: 2012-05-16 17:51

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: python处理大五码
 slug: python-decoding-big5
 date: 2011-04-01 03:41

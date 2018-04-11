@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 恢复被CVS被Override and Update后的代码
 slug: recover-after-override-and-update
 date: 2010-12-29 19:19

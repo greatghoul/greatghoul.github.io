@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 另类方法解决windows下git-bash中文输入的乱码问题
 slug: fucking-fix-msysgit-chinese-input-method-issue
 date: 2012-04-18 17:16

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Archlinux下安装onering-desktop
 slug: install-onering-desktop-on-archlinux
 date: 2012-03-23 01:54

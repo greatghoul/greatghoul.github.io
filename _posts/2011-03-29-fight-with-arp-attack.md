@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 遭遇arp攻击
 date: 2011-03-29 22:47
 slug: fight-with-arp-attack

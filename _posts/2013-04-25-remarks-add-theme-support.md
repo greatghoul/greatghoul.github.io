@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Markdown幻灯片服务Remarks更新：支持自定主题
 slug: remarks-add-theme-support
 date: 2013-04-25 10:13

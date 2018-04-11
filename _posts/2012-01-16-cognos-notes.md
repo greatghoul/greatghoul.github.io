@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Cognos开发笔记
 slug: cognos-notes
 date: 2012-01-16 20:50

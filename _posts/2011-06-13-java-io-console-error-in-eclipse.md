@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Eclipse中无法使用java.io.Console
 slug: java-io-console-error-in-eclipse
 date: 2011-06-13 13:34

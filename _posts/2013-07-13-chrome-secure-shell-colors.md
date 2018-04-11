@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Chrome Secure Shell 配色
 slug: chrome-secure-shell-colors
 date: 2013-07-13 09:33

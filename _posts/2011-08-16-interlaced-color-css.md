@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 隔行换色(CSS)
 slug: interlaced-color-css
 date: 2011-08-16 21:57

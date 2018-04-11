@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Gnome中建立Open Terminal Here右键菜单
 slug: open-terminal-here-in-gnome-context-menu
 date: 2011-06-23 00:38

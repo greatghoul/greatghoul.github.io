@@ -1,4 +1,5 @@
 ---
+layout: post
 title: HTA中两种方法转码文本文件
 slug: 2-ways-to-convert-encodings-in-hta
 date: 2011-07-14 08:09

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 西安Ruby社区第一次聚会 
 slug: xian-rubyists-party-v1
 date: 2013-06-22 19:29

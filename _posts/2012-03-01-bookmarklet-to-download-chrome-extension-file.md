@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 下载Chrome扩展安装包的Bookmarklet
 slug: bookmarklet-to-download-chrome-extension-file
 date: 2012-03-01 21:56

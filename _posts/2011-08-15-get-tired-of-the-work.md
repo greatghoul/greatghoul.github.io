@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  对现在的工作厌烦了
 slug: get-tired-of-the-work
 date: 2011-08-15 08:06

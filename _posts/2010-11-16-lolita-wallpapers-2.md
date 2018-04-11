@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 萝莉壁纸分享
 slug: lolita-wallpapers-2
 date: 2010-11-16 23:16

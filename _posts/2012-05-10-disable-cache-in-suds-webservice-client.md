@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 在使用 suds 开发 webservices 客户端时禁用缓存
 slug: disable-cache-in-suds-webservice-client
 date: 2012-05-10 18:51

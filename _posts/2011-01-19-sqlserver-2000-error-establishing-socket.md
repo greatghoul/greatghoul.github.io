@@ -1,4 +1,5 @@
 ---
+layout: post
 title: \\[Microsoft\\]\\[SQLServer 2000 Driver for JDBC\\]Error establishing socket.
 slug: sqlserver-2000-error-establishing-socket
 date: 2011-01-19 03:11

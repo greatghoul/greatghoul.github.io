@@ -1,4 +1,5 @@
 ---
+layout: post
 title: python遍历C盘下的所有dll文件
 slug: list-all-dlls
 date: 2011-02-09 19:12

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 通过 PING 选取连接最快的 VPN 服务
 date: 2015-10-26 22:04 CST
 cover: http://greatghoul.b0.upaiyun.com/1510/Hg_xujlDoCDtE.png

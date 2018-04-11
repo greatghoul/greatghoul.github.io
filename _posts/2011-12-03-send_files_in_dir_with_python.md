@@ -1,4 +1,5 @@
 ---
+layout: post
 title: python发送文件夹内容到邮箱
 slug: send-files-in-dir-with-python
 date: 2011-12-03 01:14

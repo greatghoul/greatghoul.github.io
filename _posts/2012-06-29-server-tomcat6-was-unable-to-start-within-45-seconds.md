@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Server Tomcat6 was unable to start within 45 seconds
 slug: server-tomcat6-was-unable-to-start-within-45-seconds
 date: 2012-06-29 16:06

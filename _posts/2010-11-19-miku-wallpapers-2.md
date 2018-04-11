@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 初音壁纸分享
 slug: miku-wallpapers-2
 date: 2010-11-19 09:44

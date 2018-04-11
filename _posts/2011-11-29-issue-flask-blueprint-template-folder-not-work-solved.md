@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 解决SAE中Flask Blueprint指定template folder无效问题
 slug: issue-flask-blueprint-template-folder-not-work-solved
 date: 2011-11-29 19:42

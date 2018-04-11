@@ -1,4 +1,5 @@
 ---
+layout: post
 title: AVG杀毒2012无法卸载的解决方法
 slug: uninstall-avg-anti-virus-free-2012
 date: 2011-10-01 13:08

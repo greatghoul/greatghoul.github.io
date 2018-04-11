@@ -1,4 +1,5 @@
 ---
+layout: post
 title: jqmodal在rails中的简单应用
 slug: jqmodal-with-rails
 date: 2013-04-24 10:55

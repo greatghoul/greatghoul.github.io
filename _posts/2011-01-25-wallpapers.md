@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 2011年1月壁纸分享
 slug: wallpapers-201101
 date: 2011-01-25 20:38

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 为知笔记的流氓行为
 slug: wiznote-sucks
 date: 2012-10-17 15:36

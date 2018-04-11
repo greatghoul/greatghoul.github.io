@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 媳妇手机被盗
 slug: honey-phone-stolen
 date: 2011-12-27 21:20

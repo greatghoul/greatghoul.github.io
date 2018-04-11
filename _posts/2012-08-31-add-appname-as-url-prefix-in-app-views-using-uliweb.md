@@ -1,4 +1,5 @@
 ---
+layout: post
 title: uliweb中为app指定url前缀
 slug: add-appname-as-url-prefix-in-app-views-using-uliweb
 date: 2012-08-31 13:57

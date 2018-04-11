@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 推荐非常棒的 RSS 阅读应用 ReadKit
 date: 2015-02-03 17:14 CST
 tags: mac, reading

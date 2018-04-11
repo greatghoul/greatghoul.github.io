@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Not an editor command: ^M"
 slug: fix-vim-error-not-an-editor-command-m
 date: 2012-05-01 22:48

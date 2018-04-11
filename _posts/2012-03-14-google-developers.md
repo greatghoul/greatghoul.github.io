@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Google放出了 Google Developers 网站
 slug: google-developers
 date: 2012-03-14 00:10

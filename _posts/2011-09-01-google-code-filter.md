@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 油猴脚本Google Code Filter发布
 slug: google-code-filter
 date: 2011-09-01 02:35

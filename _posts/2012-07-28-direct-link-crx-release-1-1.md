@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 更新Chrome扩展Direct Link至1.1
 slug: direct-link-crx-release-1-1
 date: 2012-07-28 17:01

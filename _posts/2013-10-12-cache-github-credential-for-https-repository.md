@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 记住 Github HTTPS 仓库的密码
 slug: cache-github-credential-for-https-repository
 date: 2013-10-12 22:55

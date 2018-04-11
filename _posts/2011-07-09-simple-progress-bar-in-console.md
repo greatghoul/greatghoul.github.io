@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 命令行中模拟进度条
 slug: simple-progress-bar-in-console
 date: 2011-07-09 07:43

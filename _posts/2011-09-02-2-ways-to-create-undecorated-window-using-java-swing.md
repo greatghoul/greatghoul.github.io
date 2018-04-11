@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Swing无边窗口的两种实现
 slug: 2-ways-to-create-undecorated-window-using-java-swing
 date: 2011-09-02 15:16

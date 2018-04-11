@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 润乾报表使用心得
 slug: runqian-notes
 date: 2011-01-10 16:28

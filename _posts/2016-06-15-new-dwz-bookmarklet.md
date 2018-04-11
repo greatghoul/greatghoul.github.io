@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 新的短网址小书签应用
 date: 2016-06-15 17:35 CST
 tags:

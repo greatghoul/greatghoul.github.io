@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 讨论基于缩进的HTML模板引擎 
 slug: indent-based-html-templating-or-not
 date: 2013-04-17 14:23

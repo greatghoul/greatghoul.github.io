@@ -1,4 +1,5 @@
 ---
+layout: post
 title: DiabloII Ama A4经典打法
 slug: diabloii-ama-run-a4
 date: 2011-06-29 08:14

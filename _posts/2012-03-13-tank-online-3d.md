@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 游戏推荐：Tank Online 3D
 slug: tank-online-3d
 date: 2012-03-13 01:50

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: windows下apache+mod_wsgi部署python web应用
 slug: deploy-python-webapp-on-windows-with-apache-and-mod-wsgi
 date: 2013-01-31 09:34

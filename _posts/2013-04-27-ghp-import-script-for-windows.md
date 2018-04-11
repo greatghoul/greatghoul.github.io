@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Windows版Github Pages发布脚本
 slug: ghp-import-script-for-windows
 date: 2013-04-27 09:07

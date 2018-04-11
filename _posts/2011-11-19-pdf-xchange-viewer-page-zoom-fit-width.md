@@ -1,4 +1,5 @@
 ---
+layout: post
 title: PDF-XChange Viewer固定页面缩放方式为适应宽度
 slug: pdf-xchange-viewer-page-zoom-fit-width
 date: 2011-11-19 20:41

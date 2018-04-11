@@ -1,4 +1,5 @@
 ---
+layout: post
 title: linux下玩Diablo2的环境设置
 slug: play-diablo2-under-linux
 date: 2011-09-15 23:22

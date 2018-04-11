@@ -1,4 +1,5 @@
 ---
+layout: post
 title: CHM文件内容无法查看及无法索引的解决方法
 slug: chm-404-and-index-problems
 date: 2008-06-18 13:29

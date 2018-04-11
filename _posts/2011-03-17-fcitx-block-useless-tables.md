@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 屏蔽fcitx多余的码表
 slug: fcitx-block-useless-tables
 date: 2011-03-17 22:45

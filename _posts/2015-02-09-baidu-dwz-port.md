@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 百度短网址应用
 date: 2015-02-09 11:42
 tags: webapp, javascript

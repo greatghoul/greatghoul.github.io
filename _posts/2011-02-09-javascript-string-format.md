@@ -1,4 +1,5 @@
 ---
+layout: post
 title: javascript简单实现String.format()
 slug: javascript-string-format
 date: 2011-02-09 20:25

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: python并发的应用：ping一个网段，并列出结果
 slug: python-threading-ping
 date: 2011-02-09 19:47

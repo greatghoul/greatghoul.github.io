@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 无意义的抵抗
 slug: pointless-to-resist
 date: 2012-08-01 23:52

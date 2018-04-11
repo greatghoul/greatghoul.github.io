@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Chrome 划词翻译扩展 TransIt V1.3 发布
 date: 2015-03-11 15:24
 tags: [chrome-extension, crx-transit]

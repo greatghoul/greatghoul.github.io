@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 学无止境
 slug: knowledge-is-infinite
 date: 2010-12-01 15:32

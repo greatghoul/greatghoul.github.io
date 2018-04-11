@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Android壁纸分享
 slug: android-wallpapers
 date: 2010-12-03 18:04

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 在Google站外使用Gmail联系人列表
 slug: google-contacts-autocomplete
 date: 2008-08-19 13:53

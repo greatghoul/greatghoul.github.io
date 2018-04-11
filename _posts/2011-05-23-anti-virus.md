@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 遭遇文件夹病毒
 slug: anti-virus
 date: 2011-05-23 21:48

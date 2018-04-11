@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Wordpress代码高亮插件 PrettyCode
 slug: intro-wordpress-plugin-PrettyCode
 date: 2011-06-07 22:37

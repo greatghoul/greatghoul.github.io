@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 拖延心理学读书笔记
 slug: procrastination-notes-9-13
 date: 2012-11-19 12:44

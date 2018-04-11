@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 设置华表Cell插件外观时的“闪烁”问题
 slug: java-report-cell-component-blink-issue
 date: 2011-06-09 13:39

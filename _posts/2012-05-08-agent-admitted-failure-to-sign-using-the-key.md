@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 变更ssh key后git连接失败
 slug: agent-admitted-failure-to-sign-using-the-key
 date: 2012-05-08 01:28

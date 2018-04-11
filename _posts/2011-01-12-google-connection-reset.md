@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Google搜索经常被重置
 slug: google-connection-reset
 date: 2011-01-12 14:11

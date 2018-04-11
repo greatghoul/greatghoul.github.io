@@ -1,4 +1,5 @@
 ---
+layout: post
 title: java BoxLayout布局心得
 slug: java-boxlayout
 date: 2008-11-16 14:10

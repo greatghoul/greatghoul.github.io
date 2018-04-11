@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Google Tasks 重新允许被第三方网站嵌入 
 slug: google-tasks-embedded-feature-is-back
 date: 2013-02-07 19:23

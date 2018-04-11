@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 在 turbolinks 的页面中使用 contentscripts
 slug: contentscript-on-turbolinks
 date: 2014-01-13 08:57

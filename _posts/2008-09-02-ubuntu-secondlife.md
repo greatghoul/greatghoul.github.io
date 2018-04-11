@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Ubuntu下安装secondlife中断后无法继续安装
 slug: ubuntu-secondlife
 date: 2008-09-02 19:24

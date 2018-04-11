@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 润乾报表中文参数乱码
 slug: reqian-report-messy-code
 date: 2010-11-23 14:37

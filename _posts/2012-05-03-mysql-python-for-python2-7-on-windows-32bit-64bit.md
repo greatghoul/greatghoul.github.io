@@ -1,4 +1,5 @@
 ---
+layout: post
 title: mysql-python for python2.7 on windows 32bit & 64bit
 slug: mysql-python-for-python2-7-on-windows-32bit-64bit
 date: 2012-05-03 15:33

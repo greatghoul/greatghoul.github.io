@@ -1,4 +1,5 @@
 ---
+layout: post
 title: CentOS下使用Nginx和uwsgi部署MoinMoin
 slug: deploy-moin-wiki-with-nginx-and-uwsgi-in-centos
 date: 2013-08-22 10:48

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 发布 Chrome 扩展 Better Ruby China
 date: 2014-12-08 15:30
 tags: chrome-extension, ruby

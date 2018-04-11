@@ -1,4 +1,5 @@
 ---
+layout: post
 title: swing中JTabbedPane的例子
 slug: simple-swing-jtabbedpane
 date: 2011-09-14 23:48

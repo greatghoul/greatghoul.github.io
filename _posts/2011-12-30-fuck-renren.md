@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 那二逼的人人网
 slug: fuck-renren
 date: 2011-12-30 13:44

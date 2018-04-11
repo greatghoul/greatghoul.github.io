@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 使用SQL实现交叉表
 slug: mysql-cross-table
 date: 2012-02-05 23:03

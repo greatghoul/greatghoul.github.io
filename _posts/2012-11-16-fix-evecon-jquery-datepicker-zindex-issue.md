@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 解决eyecon的jQueryDatepicker被浮动层遮盖的问题
 slug: fix-evecon-jquery-datepicker-zindex-issue
 date: 2012-11-16 18:02

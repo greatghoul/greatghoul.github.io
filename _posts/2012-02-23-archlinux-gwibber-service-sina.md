@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 在ArchLinux的上折腾Gwibber的新浪微博插件
 slug: archlinux-gwibber-service-sina
 date: 2012-02-23 23:38

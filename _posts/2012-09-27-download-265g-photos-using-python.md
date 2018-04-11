@@ -1,4 +1,5 @@
 ---
+layout: post
 title: python批量下载265g美图
 slug: download-265g-photos-using-python
 date: 2012-09-27 22:50

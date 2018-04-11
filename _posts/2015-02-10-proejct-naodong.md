@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 一起来开脑洞吧
 date: 2015-02-10 11:41 CST
 tags: github

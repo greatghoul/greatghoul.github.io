@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 在rails中安装ruby-oci8
 slug: install-ruby-oci8-for-rails-on-linux
 date: 2013-01-07 11:27

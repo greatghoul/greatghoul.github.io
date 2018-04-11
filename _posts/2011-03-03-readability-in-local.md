@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 内网中使用Readability
 slug: readability-in-local
 date: 2011-03-03 23:32

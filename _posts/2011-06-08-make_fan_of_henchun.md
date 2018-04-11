@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 很纯恶搞之孔明之恋
 slug: make-fan-of-henchun
 date: 2011-06-08 19:50

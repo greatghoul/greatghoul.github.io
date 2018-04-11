@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 在 XFCE 中使用截图工具
 slug: xfce-take-screenshot
 date: 2014-01-20 10:09

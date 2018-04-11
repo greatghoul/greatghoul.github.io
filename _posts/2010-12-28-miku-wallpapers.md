@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 2010年12月初音壁纸分享
 slug: miku-wallpapers
 date: 2010-12-28 12:22

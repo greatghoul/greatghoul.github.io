@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 不折腾
 slug: no-zuo-no-die
 date: 2014-05-29 00:34

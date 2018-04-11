@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 用 Rails 简单的实现网站的导航路径
 date: 2015-04-08 10:15 CST
 tags: rails

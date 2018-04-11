@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 奇怪的org.hibernate.PropertyAccessException错误
 slug: org-hibernate-propertyaccessexception
 date: 2010-11-21 15:13

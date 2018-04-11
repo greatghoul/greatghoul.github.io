@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Chrome扩展推荐：Cache Killer
 slug: chrome-extension-cache-killer
 date: 2012-07-19 16:03

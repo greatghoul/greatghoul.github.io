@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 在linux中通过python访问mdb数据库
 slug: python-pyodbc-access-mdb-in-linux
 date: 2012-06-29 09:25

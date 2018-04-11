@@ -1,4 +1,5 @@
 ---
+layout: post
 title: wxPython中TextCtrl控件的文本长度限制
 slug: text-length-limit-of-textctrl-in-wxpython
 date: 2011-01-10 14:52

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 用正则验证文件名是否合法(仅限win平台)
 slug: validate-file-name-with-regex
 date: 2009-03-14 19:30

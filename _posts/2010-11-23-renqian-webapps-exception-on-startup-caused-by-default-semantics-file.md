@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 缺省语义文件导致润乾报表web应用启动报错
 slug: renqian-webapps-exception-on-startup-caused-by-default-semantics-file
 date: 2010-11-23 16:01

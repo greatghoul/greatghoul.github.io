@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Gmail推出“搜索实验室”功能
 slug: gmail-lab-search
 date: 2011-01-20 20:25

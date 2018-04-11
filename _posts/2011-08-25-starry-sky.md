@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 星空
 slug: starry-sky
 date: 2011-08-25 22:35

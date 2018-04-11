@@ -1,4 +1,5 @@
 ---
+layout: post
 title: PyCharm中配置Python WEB的本地Dev Server
 slug: config-python-web-dev-server-in-pycharm
 date: 2012-11-05 10:36

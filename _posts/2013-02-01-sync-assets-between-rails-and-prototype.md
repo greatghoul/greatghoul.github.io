@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Rails Assets 与前端原型 Assets 同步 
 slug: sync-assets-between-rails-and-prototype
 date: 2013-02-01 09:17

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Chrome扩展：开源中国增强版
 slug: crx-oschina-plus-v1-0
 date: 2013-09-23 17:47

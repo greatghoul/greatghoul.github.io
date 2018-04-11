@@ -1,4 +1,5 @@
 ---
+layout: post
 title: FileNameFilter接口应用 - 指定多个扩展名过滤规则
 slug: filenamefilter
 date: 2009-03-14 08:18

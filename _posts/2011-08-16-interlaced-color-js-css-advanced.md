@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 隔行变色(JS+CSS) 高级
 slug: interlaced-color-js-css-advanced
 date: 2011-08-16 22:13

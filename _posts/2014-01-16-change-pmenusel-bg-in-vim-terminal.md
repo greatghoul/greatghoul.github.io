@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 修改终端下vim的PopupMenu选种项的背景颜色
 slug: change-pmenusel-bg-in-vim-terminal
 date: 2014-01-16 15:35

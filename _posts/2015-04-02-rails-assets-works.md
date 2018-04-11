@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 用 Rails Assets 管理前端组件
 date: 2015-04-02 20:48 CST
 tags:

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 制作 Sphinx 文档的 Dash Docset
 date: 2014-11-26 15:30
 tags: dash, python, sphinx

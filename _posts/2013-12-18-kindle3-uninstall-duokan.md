@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Kindle 3 卸载多看系统
 slug: kindle3-uninstall-duokan
 date: 2013-12-18 13:08
