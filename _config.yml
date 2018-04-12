@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: Ask and learn.
 email: greatghoul@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   一个充满热情的 Ruby / JavaScript / Python 程序员
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ghoulmind.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "http://ghoulmind.com"
 twitter_username: greatghoul
 github_username:  greatghoul
 
@@ -30,6 +30,6 @@ plugins:
   - jekyll-paginate
 
 paginate: 10
-paginate_path: "/page/:num/"
+paginate_path: /page/:num/
 
 permalink: /:year/:month/:title/
