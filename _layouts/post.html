@@ -30,7 +30,8 @@ layout: default
 
       <div class="article-tags">
         {% for tag in page.tags %}
-          <a href="/tags/{{ tag | cgi_escape }}/" class="tag">{{ tag }}</a>
+          
+          <a href="/tags/{{ tag | slugify }}/" class="tag">{{ tag }}</a>
         {% endfor %}
       </div>
     </div>

@@ -1,0 +1,21 @@
+---
+layout: default
+title: 归档
+---
+
+{% assign posts_by_year = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in posts_by_year %}
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h3 class="panel-title">{{ year.name }}年归档</h3>
+    </div>
+    <ul class="list-group">
+    {% for post in year.items %}
+      <a href="{{ post.url }}" class="list-group-item">
+        <span class="badge">{{ post.date | date: "%Y年%m月%d日" }}</span>
+        {{ post.title }}
+      </a>
+    {% endfor %}
+    </ul>
+  </div>
+{% endfor %}
