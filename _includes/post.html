@@ -1,0 +1,36 @@
+<article class="panel panel-default article">
+  <div class="panel-heading">
+    <h3 class="panel-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  </div>
+
+  <div class="panel-body">
+    {% if post.cover %}
+      <div class="article-cover">
+        <img src="{{ post.cover }}" />
+      </div>
+    {% endif %}
+
+    <div class="article-summary">
+      {{ post.excerpt }}
+    </div>
+
+    <a href="{{ post.url }}" class="btn-more">阅读全文…</a>
+  </div>
+
+  <div class="panel-footer">
+    <div class="article-meta">
+      <div class="pull-right">
+        <div class="meta meta-comment">
+          <a href="{{ post.url }}#disqus_thread">
+            <span class="icon-comments"></span> 发表评论
+          </a>  
+        </div>
+      </div>
+
+      <div class="meta meta-time">
+        <i class="fa fa-clock"></i>
+        <time datetime="">{{ post.date | date: "%Y年%m月%d日" }}</time>
+      </div>
+    </div>
+  </div>
+</article>

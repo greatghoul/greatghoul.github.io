@@ -1,14 +1,20 @@
-# If you have OpenSSL installed, we recommend updating
-# the following line to use 'https'
-source 'https://rubygems.org/'
+source 'https://rubygems.org'
 
-gem 'builder', '~> 3.0'
-gem 'middleman', '~> 3.3.6'
-gem 'middleman-blog', '~> 3.5.3'
-gem 'middleman-deploy', '~> 0.3.0'
-gem 'middleman-disqus'
-gem 'middleman-gh-pages'
-gem 'middleman-google-analytics'
-gem 'middleman-meta-tags'
-gem 'nokogiri', '~> 1.6.4.1'
-gem 'redcarpet' # For feed.xml.builder
+gem 'jekyll', '~> 3.7.3'
+gem 'minima', '~> 2.0'
+
+# If you want to use GitHub Pages, remove the 'gem 'jekyll' above and
+# uncomment the line below. To upgrade, run `bundle update github-pages`.
+# gem 'github-pages', group: :jekyll_plugins
+
+# If you have any plugins, put them here!
+group :jekyll_plugins do
+  gem 'jekyll-feed', '~> 0.6'
+  gem 'jekyll-paginate'
+end
+
+# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
+# gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+# Performance-booster for watching directories on Windows
+gem 'wdm', '~> 0.1.0' if Gem.win_platform?

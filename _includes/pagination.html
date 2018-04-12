@@ -1,0 +1,8 @@
+<div class="paginator">
+  {% if paginator.page > 1 %}
+    <a href="{{ paginator.previous_page_path }}" class="btn btn-default">&laquo; 上一页</a>
+  {% endif %}
+  {% if paginator.page < paginator.total_pages %}
+    <a href="{{ paginator.next_page_path }}" class="btn btn-default">下一页 &raquo;</a>
+  {% endif %}
+</div>

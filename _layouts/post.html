@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<div class="page-article">
+  <article class="panel panel-default article">
+    <div class="panel-heading">
+      <h1 class="panel-title article-title">{{ page.title }}</h1>
+
+      <div class="article-meta">
+        <div class="pull-right">
+          <div class="meta meta-comment">
+            <a href="#disqus_thread">
+              <i class="fa fa-comment"></i> 发表评论
+            </a>  
+          </div>
+        </div>
+
+        <div class="meta meta-time">
+          <i class="fa fa-clock-o"></i>
+          <time datetime="{{ page.date }}">{{ page.date | date: "%Y年%m月%d日" }}</time>
+        </div>
+      </div>
+    </div>
+
+    <div class="panel-body">
+      <div class="article-content">
+        {{ content }}
+      </div>
+
+      <div class="article-tags">
+        {% for tag in page.tags %}
+          <a href="#{{ tag | slugify }}" class="tag">{{ tag }}</a>
+        {% endfor %}
+      </div>
+    </div>
+    
+    <div class="panel-footer">
+      {% include comments.html %}
+    </div>
+  </article>
+</div>
