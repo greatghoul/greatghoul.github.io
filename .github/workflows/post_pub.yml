@@ -20,7 +20,7 @@ jobs:
           ISSUE_DATA: ${{ toJson(github.event.issue) }}
         run: |
           npm install
-          node .github/workflows/issue_to_post.js "${ISSUE_DATA}"
+          node .github/workflows/post_pub/issue_to_post.js "${ISSUE_DATA}"
           git add .
           git commit -m "Publish ${{github.event.issue.title}}"
           git push -f origin HEAD
