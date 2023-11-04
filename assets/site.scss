@@ -1,7 +1,6 @@
 ---
 ---
 
-
 body {
   background-color: #f1f1f1;
   font-size: 18px;
@@ -68,7 +67,8 @@ header {
 
 .page-article {
   .article-title {
-    font-size: 1.1em;
+    font-size: 1.5em;
+    line-height: 1.5em;
     color: #555;
   }
 }
@@ -111,6 +111,14 @@ header {
   h1, h2 {
     border-bottom: 1px solid #dddddd;
     padding-bottom: 5px;
+  }
+
+  h2 {
+    font-size: 1.3em;
+  }
+
+  h3 {
+    font-size: 1.1em;
   }
 }
 
@@ -221,5 +229,14 @@ body > footer {
 
   .article-title + .article-meta {
     margin-top: 2px;
+  }
+}
+
+.row .article .panel-title {
+  font-size: 1.2em;
+  line-height: 1.5em;
+
+  a {
+    vertical-align: middle;
   }
 }

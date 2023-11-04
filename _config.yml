@@ -32,4 +32,4 @@ plugins:
 paginate: 10
 paginate_path: /page/:num/
 
-permalink: /:title
+permalink: /:slug
