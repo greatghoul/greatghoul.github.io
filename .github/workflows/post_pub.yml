@@ -11,12 +11,12 @@ on:
 
 jobs:
   post_publish:
+    name: Post Publish
     runs-on: ubuntu-latest
     steps:
       - name: Check Publishable
         run: |
           pattern="^[0-9]{4}-[0-9]{2}-[0-9]{2}\\s.*"
           if [[ ! "${{ github.event.issue.title }}" =~ $pattern ]]; then
-            echo "Issue title does not start with YYYY-MM-DD pattern. Exiting."
-            exit 1
+            echo "::error::Issue title does not start with YYYY-MM-DD pattern. Ignored"
           fi
