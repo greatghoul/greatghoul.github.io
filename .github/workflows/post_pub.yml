@@ -20,3 +20,6 @@ jobs:
           npm install gray-matter
           issue_data=$(toJson(github.event.issue)))
           node .github/workflows/issue_to_post.js "${issue_data}"
+          git add .
+          git commit -m "Publish ${{github.event.issue.title}}"
+          git push -f origin HEAD
