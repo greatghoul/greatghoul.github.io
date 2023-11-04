@@ -18,7 +18,7 @@ email: greatghoul@gmail.com
 description: >-
   一个充满热情的 Ruby / JavaScript / Python 程序员
 baseurl: ""
-url: "http://ghoulmind.com"
+url: "https://anl.gg"
 twitter_username: greatghoul
 github_username:  greatghoul
 
@@ -32,4 +32,4 @@ plugins:
 paginate: 10
 paginate_path: /page/:num/
 
-permalink: /:year/:month/:title/
+permalink: /:title
