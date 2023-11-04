@@ -3,6 +3,7 @@ const fs = require("fs");
 
 const issue = JSON.parse(process.argv[2])
 const { data, content } = matter(issue.body)
+data.layout = 'post'
 data.title = issue.title
 data.tags = issue.labels.map(x => x.name)
 data.issue = issue.number
