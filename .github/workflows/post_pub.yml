@@ -24,11 +24,10 @@ jobs:
           fi
       - name: Cancel Workflows Action
         uses: potiuk/cancel-workflow-runs@v4_7
-        if: steps.check_publishable.outputs.should_publish != 'false'
+        if: steps.check_publishable.outputs.should_publish == 'false'
         with:
           cancelMode: self
           cancelFutureDuplicates: false
       - name: Echo Issue Title and Body
         run: |
           echo "Issue Title: ${{ github.event.issue.title }}"
-          echo "Issue Body: ${{ github.event.issue.body }}"
