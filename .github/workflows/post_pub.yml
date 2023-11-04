@@ -18,5 +18,5 @@ jobs:
         run: |
           pattern="^[0-9]{4}-[0-9]{2}-[0-9]{2}\\s.*"
           if [[ ! "${{ github.event.issue.title }}" =~ $pattern ]]; then
-            echo "::error::Issue title does not start with YYYY-MM-DD pattern. Ignored"
+            echo "::set-failed::Issue title does not start with YYYY-MM-DD pattern. Ignored"
           fi
