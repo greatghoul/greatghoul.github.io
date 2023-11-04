@@ -15,7 +15,8 @@ jobs:
     steps:
       - name: Check Publishable
         run: |
-          if [[ ! "${{ github.event.issue.title }}" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2} .*$ ]]; then
+          pattern="^[0-9]{4}-[0-9]{2}-[0-9]{2}\\s.*"
+          if [[ ! "2014-02-23 test issue1" =~ $pattern ]]; then
             echo "Issue title does not start with YYYY-MM-DD pattern. Exiting."
             exit 1
           fi
