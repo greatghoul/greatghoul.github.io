@@ -1,5 +1,8 @@
 name: Post Publish
 
+permissions:
+  actions: write
+
 on:
   issues:
     types:
