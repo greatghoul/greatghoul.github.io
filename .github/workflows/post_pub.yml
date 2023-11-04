@@ -26,6 +26,7 @@ jobs:
         uses: potiuk/cancel-workflow-runs@v4_7
         if: steps.check_publishable.outputs.should_publish == 'false'
         with:
+          token: ${{ secrets.GITHUB_TOKEN }}
           cancelMode: self
           cancelFutureDuplicates: false
       - name: Echo Issue Title and Body
