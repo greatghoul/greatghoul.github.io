@@ -7,7 +7,7 @@ data.layout = 'post'
 data.title = issue.title
 data.tags = issue.labels.map(x => x.name)
 data.issue = issue.number
-data.slug = this.slug || data.issue
+data.slug = String(this.slug || data.issue)
 
 if (!data.date) {
   const date = new Date(issue.created_at)
