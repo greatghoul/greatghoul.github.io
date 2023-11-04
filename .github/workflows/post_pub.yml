@@ -21,8 +21,8 @@ jobs:
         run: |
           npm install
           node .github/workflows/post_pub/issue_to_post.js "${ISSUE_DATA}"
-          git config user.name 'github-actions[bot]'
-          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git config user.name 'greatghoul'
+          git config user.email 'greatghoul@gmail.com'
           git add .
           git commit -m "Publish ${{github.event.issue.title}}"
           git push -f origin HEAD
