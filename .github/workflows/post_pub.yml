@@ -18,11 +18,7 @@ jobs:
       - name: Issue To Post
         run: |
           npm install
-          {
-            echo 'ISSUE_DATA<<EOF'
-            echo ${{toJson(github.event.issue)}}
-            echo EOF
-          } >> "$GITHUB_ENV"
+          ISSUE_DATA=$(echo "${{ toJson(github.event.issue) }}"
           node .github/workflows/issue_to_post.js "${ISSUE_DATA}"
           git add .
           git commit -m "Publish ${{github.event.issue.title}}"
