@@ -22,8 +22,8 @@ jobs:
           pattern="^[0-9]{4}-[0-9]{2}-[0-9]{2}\\s.*"
           if [[ ! "${{ github.event.issue.title }}" =~ $pattern ]]; then
             echo "::notice::Issue title does not start with YYYY-MM-DD pattern. Ignored"
-            gh run cancel ${{ github.run_id }}
-            gh run watch ${{ github.run_id }}
+            gh run --repo greatghoul/greatghoul.github.io cancel ${{ github.run_id }}
+            gh run --repo greatghoul/greatghoul.github.io watch ${{ github.run_id }}
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
