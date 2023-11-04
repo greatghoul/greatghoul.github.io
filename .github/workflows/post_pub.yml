@@ -16,13 +16,10 @@ jobs:
       - uses: actions/checkout@v4.1.1
       - uses: actions/setup-node@v3
       - name: Issue To Post
+        env:
+          ISSUE_DATA: ${{ toJson(github.event.issue) }}
         run: |
           npm install
-          {
-            echo 'ISSUE_DATA<<EOF'
-            ${{ toJson(github.event.issue) }}
-            echo EOF
-          } >> "$GITHUB_ENV"
           node .github/workflows/issue_to_post.js "${ISSUE_DATA}"
           git add .
           git commit -m "Publish ${{github.event.issue.title}}"
