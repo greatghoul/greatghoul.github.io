@@ -14,21 +14,16 @@ jobs:
     name: Post Publish
     runs-on: ubuntu-latest
     steps:
-      - name: Check Publishable
-        id: check_publishable
+      - name: Check
         run: |
           pattern="^[0-9]{4}-[0-9]{2}-[0-9]{2}\\s.*"
           if [[ ! "${{ github.event.issue.title }}" =~ $pattern ]]; then
             echo "::notice::Issue title does not start with YYYY-MM-DD pattern. Ignored"
-            echo "should_publish=false" >> $GITHUB_OUTPUT
+            gh run cancel ${{ github.run_id }}
+            gh run watch ${{ github.run_id }}
           fi
-      - name: Cancel Workflows Action
-        uses: potiuk/cancel-workflow-runs@v4_7
-        if: steps.check_publishable.outputs.should_publish == 'false'
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          cancelMode: self
-          cancelFutureDuplicates: false
-      - name: Echo Issue Title and Body
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Publish
         run: |
           echo "Issue Title: ${{ github.event.issue.title }}"
