@@ -13,7 +13,7 @@ issue: 60
 [Readability][1] 这个 bookmarklet 是一个好东西，能够很好的改善我们的阅读体验。这个服务现在已经现在改版了，更加漂亮，
 定制更加容易，不过我不是喜欢原来的，觉得更加简单轻便。
 
-![Readability 效果图](http://pic.yupoo.com/greatghoul_v/ATfG7odN/nlkPO.jpg)
+![Readability 效果图](https://github.com/greatghoul/greatghoul.github.io/assets/208966/9725b07b-2f72-44e1-b565-76f24dcdcbec)
 
 工作是在华为外包，所以只能接触很少一部分外网，如 [javaeye][2] 什么的，不过还是能抽出空来阅读几篇文章，阅读长篇的文章，
 比较习惯用 readability 先清洁下页面，读起来比较舒服，但是华为里面无法访问 readability 的服务器，所以起初只好自己写了
