@@ -1,11 +1,11 @@
 ---
 slug: 82-interlaced-color-js-css
 date: '2011-08-16'
+layout: post
+title: 隔行变色(JS+CSS)
 tags:
   - JavaScript
   - CSS
-layout: post
-title: 隔行变色(JS+CSS)
 issue: 82
 ---
 
